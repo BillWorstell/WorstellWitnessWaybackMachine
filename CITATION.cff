@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+title: "Ancestors' Eye — 17th Century"
+authors:
+  - family-names: Worstell
+    given-names: Bill
+date-released: 2025-09-19
+version: "0.1.0"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/BillWorstell/WorstellWitnessWaybackMachine"

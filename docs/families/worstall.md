@@ -1,0 +1,8 @@
+# Worstall (Middletown / Bucks County, PA)
+
+**Anchor record:** **John Worstall** proposes marriage at **Middletown Monthly Meeting**, **7th month 1720**, to **Elizabeth Wildman** (b. 1689, Settle, Yorkshire).
+
+- **Before 1720:** origin unproven (family tradition says Welsh; working hypothesis: northern England via Settle/LI).
+- **In-law network:** **Wildman** family present in **Bucks by the 1690s** via **Settle MM** certificates.
+
+Use this page to paste extracts from Middletown/Falls MM, PMHB references, and Bucks histories. Link to the 1680s–1690s decade pages for scene-setting.

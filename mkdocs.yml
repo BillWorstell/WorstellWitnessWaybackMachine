@@ -1,0 +1,40 @@
+site_name: Ancestors' Eye — 17th Century
+site_description: Decade-by-decade essays and dossiers (Virginia, New Netherland, Quaker Delaware Valley)
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.instant
+    - content.code.copy
+    - toc.follow
+  palette:
+    scheme: default
+nav:
+  - Home: index.md
+  - Orientation: overview.md
+  - Decades:
+      - 1600s: decades/1600s.md
+      - 1640s: decades/1640s.md
+      - 1650s (template): decades/1650s.md
+      - 1660s (template): decades/1660s.md
+      - 1670s (template): decades/1670s.md
+      - 1680s (template): decades/1680s.md
+      - 1690s (template): decades/1690s.md
+  - Families:
+      - Volckertszen / Dircks: families/volckertszen-dircks.md
+      - Worstall (Bucks MM): families/worstall.md
+  - Places:
+      - Smit’s Vly: places/smits-vly.md
+  - Methods & Data: methods-data.md
+  - Bibliography: bibliography.md
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/yourname/ancestor-17c
+markdown_extensions:
+  - admonition
+  - footnotes
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
