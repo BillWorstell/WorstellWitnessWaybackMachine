@@ -1,6 +1,0 @@
-Add the Word source (not shown on site)
-
-In the repo, click Add file → Create new file.
-
-Name it manuscript/1600-1610.docx (then click Upload files link under the editor to attach your .docx and commit).
-Why: keeping .docx outside /docs keeps it out of the website build.
