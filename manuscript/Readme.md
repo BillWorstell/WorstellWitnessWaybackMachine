@@ -1,0 +1,1 @@
+Put each decade’s web page in docs/decades/, keep the Word manuscript copies in a separate manuscript/ folder, and (optionally) also place a copy in docs/downloads/ so the website can offer a direct download link.
