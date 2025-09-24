@@ -31,9 +31,9 @@ nav:
           - "Old Country": "decades/1600-1610/1600-1610-OldCountry.md"
           - Downloads:
               - "1600–1610 (PDF)": "downloads/decades/1600-1610/1600-1610.pdf"
-              - "What life felt like (PDF)": "downloads/decades/1600-1610/1600-1610-life.pdf"
-              - "New Country (PDF)": "downloads/decades/1600-1610/1600-1610-NewCountry.pdf"
-              - "Old Country (PDF)": "downloads/decades/1600-1610/1600-1610-OldCountry.pdf"
+              - "What life felt like in 1600-1610 (PDF)": "downloads/decades/1600-1610/1600-1610-life.pdf"
+              - "New Country in 1600-1610 (PDF)": "downloads/decades/1600-1610/1600-1610-NewCountry.pdf"
+              - "Old Country in 1600-1610 (PDF)": "downloads/decades/1600-1610/1600-1610-OldCountry.pdf"
               - "Hudson 1609 (PDF)": "downloads/decades/1600-1610/Hudson 1609.pdf"
       - "1640–1650": "decades/1640-1650.md"
       - "1640s": "decades/1640s.md"
@@ -48,6 +48,7 @@ nav:
 
   - Places:
       - "Norman's Kill / Bushwick": "places/normans-kill-bushwick.md"
+      - "Smith's Valley / Manhattan": "places/smits-vly.md"
 
   - Methods & Data: methods-data.md
   - Bibliography: bibliography.md
