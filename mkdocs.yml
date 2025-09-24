@@ -1,41 +1,16 @@
-site_name: Ancestors' Eye — 17th Century
-site_description: Decade-by-decade essays and dossiers (Virginia, New Netherland, Quaker Delaware Valley)
+site_name: "Ancestors' Eye — 17th Century"
+site_url: "https://billworstell.github.io/WorstellWitnessWaybackMachine/"
+
 theme:
   name: material
   features:
     - navigation.sections
-    - navigation.instant
-    - content.code.copy
-    - toc.follow
-  palette:
-    scheme: default
-nav:
-  - Home: index.md
-  - Orientation: overview.md
-  - Decades:
-      - 1600–1610: decades/1600-1610.md
-      - 1600–1610-life: decades/1600-1610-life.md
-      - 1600–1610-NewCountry: decades/1600-1610-NewCountry.md
-      - 1600–1610-OldCountry: decades/1600-1610-OldCountry.md
-      - 1640–1650: decades/1640-1650.md
-      - 1650s (template): decades/1650s.md
-      - 1660s (template): decades/1660s.md
-      - 1670s (template): decades/1670s.md
-      - 1680s (template): decades/1680s.md
-      - 1690s (template): decades/1690s.md
-  - Families:
-      - Volckertszen / Dircks: families/volckertszen-dircks.md
-      - Worstall (Bucks MM): families/worstall.md
-  - Places:
-      - Noorman’s (Norman’s) Kill — Bushwick/Greenpoint Shore, Long Island: places/normans-kill-bushwick.md
+    - navigation.indexes
+    - toc.integrate
 
-      - Smit’s Vly: places/smits-vly.md
-  - Methods & Data: methods-data.md
-  - Bibliography: bibliography.md
-extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/yourname/ancestor-17c
+plugins:
+  - search
+
 markdown_extensions:
   - admonition
   - footnotes
@@ -43,3 +18,36 @@ markdown_extensions:
   - md_in_html
   - toc:
       permalink: true
+
+nav:
+  - Home: index.md
+  - Orientation: overview.md
+
+  - Decades:
+      - "1600–1610":
+          - Overview: "decades/1600-1610/1600-1610.md"
+          - "What life felt like": "decades/1600-1610/1600-1610-life.md"
+          - "New Country": "decades/1600-1610/1600-1610-NewCountry.md"
+          - "Old Country": "decades/1600-1610/1600-1610-OldCountry.md"
+          - Downloads:
+              - "1600–1610 (PDF)": "downloads/decades/1600-1610/1600-1610.pdf"
+              - "What life felt like (PDF)": "downloads/decades/1600-1610/1600-1610-life.pdf"
+              - "New Country (PDF)": "downloads/decades/1600-1610/1600-1610-NewCountry.pdf"
+              - "Old Country (PDF)": "downloads/decades/1600-1610/1600-1610-OldCountry.pdf"
+              - "Hudson 1609 (PDF)": "downloads/decades/1600-1610/Hudson 1609.pdf"
+      - "1640–1650": "decades/1640-1650.md"
+      - "1640s": "decades/1640s.md"
+      - "1650s": "decades/1650s.md"
+      - "1660s": "decades/1660s.md"
+      - "1670s": "decades/1670s.md"
+      - "1680s": "decades/1680s.md"
+      - "1690s": "decades/1690s.md"
+
+  - Families:
+      - "Volckertszen / Dircks": "families/volckertszen-dircks.md"
+
+  - Places:
+      - "Norman's Kill / Bushwick": "places/normans-kill-bushwick.md"
+
+  - Methods & Data: methods-data.md
+  - Bibliography: bibliography.md
