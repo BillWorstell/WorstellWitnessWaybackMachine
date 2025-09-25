@@ -28,17 +28,26 @@ nav:
   - Orientation: overview.md
 
   - Decades:
-      - 1600â€“1610:
-          - Overview: "decades/1600-1610/1600-1610.md"
-          - "What life felt like": "decades/1600-1610/1600-1610-life.md"
-          - "New Country": "decades/1600-1610/1600-1610-NewCountry.md"
-          - "Old Country": "decades/1600-1610/1600-1610-OldCountry.md"
-          - Downloads:
-              - "1600â€“1610 (PDF)": "downloads/decades/1600-1610/1600-1610.pdf"
-              - "What life felt like (PDF)": "downloads/decades/1600-1610/1600-1610-life.pdf"
-              - "New Country (PDF)": "downloads/decades/1600-1610/1600-1610-NewCountry.pdf"
-              - "Old Country (PDF)": "downloads/decades/1600-1610/1600-1610-OldCountry.pdf"
-              - "Hudson 1609 (PDF)": "downloads/decades/1600-1610/Hudson 1609.pdf"
+     - "1600-1610":
+       - Overview: "decades/1600-1610/1600-1610.md"
+       - "What life felt like": "decades/1600-1610/1600-1610-life.md"
+       - "New Country": "decades/1600-1610/1600-1610-NewCountry.md"
+       - "Old Country": "decades/1600-1610/1600-1610-OldCountry.md"
++      - "Hudson 1609": "decades/1600-1610/1609-Hudson.md"
+       - Downloads:
+         - "1600-1610 (PDF)": "downloads/decades/1600-1610/1600-1610.pdf"
+         - "1600-1610 (DOCX)": "downloads/decades/1600-1610/1600-1610.docx"
+         - "What life felt like (PDF)": "downloads/decades/1600-1610/1600-1610-life.pdf"
+         - "What life felt like (DOCX)": "downloads/decades/1600-1610/1600-1610-life.docx"
+         - "New Country (PDF)": "downloads/decades/1600-1610/1600-1610-NewCountry.pdf"
+         - "New Country (DOCX)": "downloads/decades/1600-1610/1600-1610-NewCountry.docx"
+         - "Old Country (PDF)": "downloads/decades/1600-1610/1600-1610-OldCountry.pdf"
+         - "Old Country (DOCX)": "downloads/decades/1600-1610/1600-1610-OldCountry.docx"
++        - "Ancestral Lives in the Early 1600s (PDF)": "downloads/decades/1600-1610/Ancestral Lives in the Early 1600s (1600-1610).pdf"
++        - "Ancestral Lives in the Early 1600s (DOCX)": "downloads/decades/1600-1610/Ancestral Lives in the Early 1600s (1600-1610).docx"
++        - "Hudson 1609 (PDF)": "downloads/decades/1600-1610/Hudson 1609.pdf"
++        - "Hudson 1609 (DOCX)": "downloads/decades/1600-1610/Hudson 1609.docx"
+
 
       # keep the other decade singles as they are today
       - 1640s: "decades/1640s.md"
