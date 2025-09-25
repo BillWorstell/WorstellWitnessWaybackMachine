@@ -1,4 +1,4 @@
-site_name: "Ancestors' Eye — 17th Century"
+﻿site_name: "Ancestors' Eye â€” 17th Century"
 site_description: "Decade-by-decade essays and dossiers (Virginia, New Netherland, Quaker Delaware Valley)"
 site_url: "https://billworstell.github.io/WorstellWitnessWaybackMachine/"
 
@@ -28,13 +28,13 @@ nav:
   - Orientation: overview.md
 
   - Decades:
-      - 1600–1610:
+      - 1600â€“1610:
           - Overview: "decades/1600-1610/1600-1610.md"
           - "What life felt like": "decades/1600-1610/1600-1610-life.md"
           - "New Country": "decades/1600-1610/1600-1610-NewCountry.md"
           - "Old Country": "decades/1600-1610/1600-1610-OldCountry.md"
           - Downloads:
-              - "1600–1610 (PDF)": "downloads/decades/1600-1610/1600-1610.pdf"
+              - "1600â€“1610 (PDF)": "downloads/decades/1600-1610/1600-1610.pdf"
               - "What life felt like (PDF)": "downloads/decades/1600-1610/1600-1610-life.pdf"
               - "New Country (PDF)": "downloads/decades/1600-1610/1600-1610-NewCountry.pdf"
               - "Old Country (PDF)": "downloads/decades/1600-1610/1600-1610-OldCountry.pdf"
@@ -52,8 +52,8 @@ nav:
       - "Volckertsen / Dircks": "families/volckertsen-dircks.md"
 
   - Places:
-      - "Norman’s Kill / Bushwick": "places/normans-kill-bushwick.md"
-      - "Smit’s Vly / Manhattan": "places/smits-vly.md"
+      - "Normanâ€™s Kill / Bushwick": "places/normans-kill-bushwick.md"
+      - "Smitâ€™s Vly / Manhattan": "places/smits-vly.md"
 
   - Methods & Data: methods-data.md
   - Bibliography: bibliography.md
@@ -62,3 +62,5 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/BillWorstell/WorstellWitnessWaybackMachine
+
+
