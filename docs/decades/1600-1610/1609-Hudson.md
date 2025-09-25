@@ -1,43 +1,64 @@
-# 1609 — Hudson on the Muhheakantuck (Hudson) River
+# Hudson 1609
 
-> A quick orientation to Henry Hudson’s 1609 voyage as it touches the places and people we trace in the 17th-century Dutch/English Northeast.
+_A reconnaissance of the river that would anchor New Netherland and reshape the lives of the peoples already living there._
+
+!!! note "Downloads"
+    - **PDF**: [Hudson 1609](../../downloads/decades/1600-1610/Hudson 1609.pdf)
+    - **“Ancestral Lives in the Early 1600s (1600-1610)”**  
+      [DOCX](../../downloads/decades/1600-1610/Ancestral Lives in the Early 1600s (1600-1610).docx) ·
+      [PDF](../../downloads/decades/1600-1610/Ancestral Lives in the Early 1600s (1600-1610).pdf)
+
+---
 
 ## Overview
-In September **1609**, the *Halve Maen* (*Half Moon*) under **Henry Hudson** explored the river later named for him, anchoring in the bay and proceeding upriver past the future sites of **Manhattan** and **Albany**. The voyage confirmed European awareness of a deep waterway into the interior and accelerated Dutch interest that soon produced **Fort Nassau** (1614) and **New Netherland**.
 
-## What happened (brief timeline)
-- **Early Sept 1609** — The *Half Moon* enters the bay and begins sounding the river’s mouth.
-- **Sep 11–12** — First anchorage near the southern end of Manhattan; trading and tense meetings with Lenape communities.
-- **Sep 13–19** — Probes upriver; the crew records strong tides, deep channels, and excellent anchorage in multiple reaches.
-- **~Sep 19–23** — Reaches the shallows above present-day Albany; determines the river is not a navigable passage to Asia.
-- **Late Sep** — Returns downriver; further encounters both friendly and hostile; departs the coast.
+In **1609** the _Halve Maen_ (**Half Moon**), captained by **Henry Hudson** for the VOC, sounded the mouth of the river the Dutch would call the **Noort Rivier** (North River)—later the **Hudson River**. The crew anchored off the lower bay, passed into the narrows, and explored upstream into present-day Albany reaches before returning downriver. The voyage opened a commercial and political corridor that would soon pull Dutch, English, and diverse Native communities—**Lenape** (Munsee) and **Mahican** among others—into sustained exchange and conflict.
 
-*(Dates vary slightly by source; this is the conventional outline consistent across journals and later summaries.)*
+---
 
-## Why it matters for this project
-- Establishes the **riverine corridor** later used by fur traders and settlers who appear in our family lines.
-- Sets up **Dutch colonial administration** (trading posts → forts → towns), the framework behind many 1600s records.
-- Explains why **toponyms** (place names) and **jurisdictions** in the 1600–1670 pages have a Dutch core even after English control.
+## Why it matters for our lineages
 
-## Places to keep in view (for cross-reading)
-- Lower river & harbor (future **Manhattan** and **Brooklyn**).
-- Mid-Hudson and upper river reaches (future **Kinderhook/Albany** corridor).
-- Connections to our other pages:
-  - See *New Country* and *Old Country* for everyday context:  
-    `../../decades/1600-1610/1600-1610-NewCountry.md`  
-    `../../decades/1600-1610/1600-1610-OldCountry.md`
-  - Methods & data used across decades: `../../methods-data.md`
-  - Bibliography: `../../bibliography.md`
+- It marks the **opening of Dutch trade routes** that underpin settlement patterns referenced throughout the 1600s essays in this project.
+- River ports explored in 1609 later frame movement to places we discuss (e.g., **Norman’s Kill** and **Smits Vly/Manhattan**).
+- Names from logs and later reports appear again in records our families intersect with in the **1620s–1660s**.
 
-## Notes for researchers
-- Expect early **trade accounts** rather than settlement registers pre-1614; parish and notarial records intensify after forts and patroonships appear.
-- Look for **variant spellings** of Native nations and places; journals were translated multiple times.
-- Useful keywords in archives: *Half Moon*, *Halve Maen*, *North River*, *Manhattes/Manatus*, *Mawachkontek/Muhheakantuck*.
+---
 
-## Downloads
-- PDF:  [Hudson 1609](../../downloads/decades/1600-1610/Hudson%201609.pdf)
-- DOCX: [Hudson 1609](../../downloads/decades/1600-1610/Hudson%201609.docx) *(add when present)*
+## What happened (very short timeline)
 
-## References & further reading (starter list)
-- Contemporary crew journals (Juet et al.) in standard modern editions.
-- Overviews in Hudson River & New Netherland studies from museum and state historical publications.
+- **Early Sept 1609** – _Halve Maen_ enters the Lower Bay, reconnoiters the narrows.  
+- **Mid Sept** – Proceeds up the estuary past today’s Manhattan; anchorage and boat-based soundings.  
+- **Late Sept** – Passage through Haverstraw/Tappan Zee; past Catskills toward today’s Albany; boats probe shallows.  
+- **Early Oct** – Turns downriver; encounters with river communities include trade, hospitality, and skirmishes; exits the estuary.
+
+> See the **PDF** above for an illustrated version with log excerpts.
+
+---
+
+## People and parties
+
+- **Henry Hudson**, master; **Robert Juet**, mate (whose journal is a principal narrative).  
+- Sailing company of mixed Northern European origins under **VOC** commission.  
+- **Lenape (Munsee)** and **Mahican** river communities; multiple villages encountered.
+
+---
+
+## Places to keep in view
+
+- **Manhattan / Smits Vly** (see _Places_ → [Smits Vly / Manhattan](../../places/smits-vly.md))  
+- **Norman’s Kill** (see _Places_ → [Norman’s Kill / Bushwick](../../places/normans-kill-bushwick.md))  
+- Lower and mid-river anchorages: the narrows, Tappan Zee, Catskills, and the flats near present-day Albany.
+
+---
+
+## Primary sources and further reading
+
+- **Juet’s Journal** (abstracts in the PDF above).
+- See project **[Bibliography](../../bibliography.md)** and **[Methods & Data](../../methods-data.md)** for notes on editions and usage.
+
+---
+
+## Cross-references
+
+- **What life felt like in 1600–1610** → [essay](./1600-1610-life.md)  
+- **Old Country / New Country** framing essays → [Old Country](./1600-1610-OldCountry.md) · [New Country](./1600-1610-NewCountry.md)
