@@ -8,9 +8,9 @@ theme:
     - navigation.sections
     - navigation.indexes
     - navigation.tabs
-    - navigation.instant
-    - content.code.copy
-    - toc.follow
+    - navigation.prune     # <— hide sibling decades; show only the active one
+    - toc.integrate        # <— move page ToC into the left nav (removes right rail)
+
   palette:
     scheme: default
 
@@ -89,6 +89,7 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/BillWorstell/WorstellWitnessWaybackMachine
+
 
 
 
