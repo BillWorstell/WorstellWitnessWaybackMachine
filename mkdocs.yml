@@ -36,7 +36,7 @@ nav:
           - Downloads:
               - "1600-1610 (PDF)": "downloads/decades/1600-1610/1600-1610.pdf"
               - "1600-1610 (DOCX)": "downloads/decades/1600-1610/1600-1610.docx"
-              - "What life felt like (MD)": "downloads/decades/1600-1610/1600-1610-life.md"
+              - "What life felt like (DOCX)": "downloads/decades/1600-1610/1600-1610-life.docx"
               - "What life felt like (PDF)": "downloads/decades/1600-1610/1600-1610-life.pdf"
               - "New Country (DOCX)": "downloads/decades/1600-1610/1600-1610-NewCountry.docx"
               - "New Country (PDF)": "downloads/decades/1600-1610/1600-1610-NewCountry.pdf"
@@ -48,6 +48,22 @@ nav:
               - "Hudson 1609 (PDF)": "downloads/decades/1600-1610/Hudson 1609.pdf"
               - "Jamestown 1607 to 1610 (DOCX)": "downloads/decades/1600-1610/Jamestown 1607 to 161.docx"
               - "Jamestown 1607 to 161 (PDF)": "downloads/decades/1600-1610/Jamestown 1607 to 161.pdf"
+      - "1610-1620":
+          - Overview: "decades/1610-1620/1610-1620.md"
+          - "What life felt like": "decades/1610-1620/1610-1620-life.md"
+          - "New Country": "decades/1610-1620/1610-1620-NewCountry.md"
+          - "Old Country": "decades/1610-1620/1610-1620-OldCountry.md"
+          - "1614-1618-FortNassau": "decades/1610-1620/1614-1618-FortNassau.md"
+          - "1619-Virginia": "decades/1610-1620/1619-Virginia.md"
+          - Downloads:
+              - "1610-1620 (PDF)": "downloads/decades/1610-1620/1610-1620.pdf"
+              - "1610-1620 (DOCX)": "downloads/decades/1610-1620/1610-1620.docx"
+              - "What life felt like (DOCX)": "downloads/decades/1610-1620/1610-1620 Decade Module Overview.docx"
+              - "What life felt like (PDF)": "downloads/decades/1610-1620/1610-1620 Decade Module Overview.pdf"
+              - "New and Old Country Narratives (DOCX)": "downloads/decades/1600-1610/1610-1620 New and Old Country Narratives.docx"
+              - "New and Old Country Narratives (PDF)": "downloads/decades/1600-1610/1610-1620 New and Old Country Narratives.pdf"
+              - "Ancestral Lives in the Early 1600s (1610-1620) (DOCX)": "downloads/decades/1610-1620/1610-1620 Ancestral Lives.docx"
+              - "Ancestral Lives in the Early 1600s (1610-1620) (PDF)": "downloads/decades/1610-1620/1610-1620 Ancestral Lives.pdf"
 
       # keep the other decade singles as they are today
       - 1640s: "decades/1640s.md"
@@ -71,5 +87,6 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/BillWorstell/WorstellWitnessWaybackMachine
+
 
 
