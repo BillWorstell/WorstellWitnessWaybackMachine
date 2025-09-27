@@ -6,6 +6,8 @@ theme:
   name: material
   features:
     - navigation.sections
+    - navigation.indexes
+    - navigation.tabs
     - navigation.instant
     - content.code.copy
     - toc.follow
@@ -87,6 +89,7 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/BillWorstell/WorstellWitnessWaybackMachine
+
 
 
 
