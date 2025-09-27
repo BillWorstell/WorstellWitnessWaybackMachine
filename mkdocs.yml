@@ -19,11 +19,15 @@ plugins:
 
 markdown_extensions:
   - admonition
-  - footnotes
   - attr_list
+  - def_list
+  - footnotes
   - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
   - toc:
-      permalink: true
+      permalink: "¶"
+
 
 nav:
   - Home: index.md
@@ -89,6 +93,7 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/BillWorstell/WorstellWitnessWaybackMachine
+
 
 
 
