@@ -1,4 +1,4 @@
-﻿site_name: "Ancestors' Eye â€” 17th Century"
+site_name: "Ancestors\u2019 Eye \u2014 17th Century"
 site_description: "Decade-by-decade essays and dossiers (Virginia, New Netherland, Quaker Delaware Valley)"
 site_url: "https://billworstell.github.io/WorstellWitnessWaybackMachine/"
 
@@ -89,6 +89,7 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/BillWorstell/WorstellWitnessWaybackMachine
+
 
 
 
