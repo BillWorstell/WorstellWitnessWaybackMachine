@@ -42,9 +42,12 @@ nav:
               - "New Country (PDF)": "downloads/decades/1600-1610/1600-1610-NewCountry.pdf"
               - "Old Country (DOCX)": "downloads/decades/1600-1610/1600-1610-OldCountry.docx"
               - "Old Country (PDF)": "downloads/decades/1600-1610/1600-1610-OldCountry.pdf"
-              - "Ancestral Lives in the Early 1600s (DOCX)": "downloads/decades/1600-1610/Ancestral Lives in the Early 1600s (1600-1610).docx"
-              - "Ancestral Lives in the Early 1600s (PDF)": "downloads/decades/1600-1610/Ancestral Lives in the Early 1600s (1600-1610).pdf"
+              - "Ancestral Lives in the Early 1600s (1600-1610) (DOCX)": "downloads/decades/1600-1610/Ancestral Lives in the Early 1600s (1600-1610).docx"
+              - "Ancestral Lives in the Early 1600s (1600-1610) (PDF)": "downloads/decades/1600-1610/Ancestral Lives in the Early 1600s (1600-1610).pdf"
+              - "Hudson 1609 (DOCX)": "downloads/decades/1600-1610/Hudson 1609.docx"
               - "Hudson 1609 (PDF)": "downloads/decades/1600-1610/Hudson 1609.pdf"
+              - "Jamestown 1607 to 1610 (DOCX)": "downloads/decades/1600-1610/Jamestown 1607 to 161.docx"
+              - "Jamestown 1607 to 161 (PDF)": "downloads/decades/1600-1610/Jamestown 1607 to 161.pdf"
 
       # keep the other decade singles as they are today
       - 1640s: "decades/1640s.md"
