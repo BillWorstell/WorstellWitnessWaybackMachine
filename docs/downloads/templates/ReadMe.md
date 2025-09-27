@@ -1,12 +1,12 @@
 # 1) Downloadable templates (ready now)
 
-. Decade_Module_Overview_TEMPLATE.md
+- Decade_Module_Overview_TEMPLATE.md
 
-. Decade_Folder_ReadMe_TEMPLATE.md
+- Decade_Folder_ReadMe_TEMPLATE.md
 
-. Event_Essay_TEMPLATE.md
+- Event_Essay_TEMPLATE.md
 
-. Life_and_Context_TEMPLATE.md
+- Life_and_Context_TEMPLATE.md
 
 # Where to put them
 
