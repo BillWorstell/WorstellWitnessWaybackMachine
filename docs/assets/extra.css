@@ -1,0 +1,4 @@
+/* Collapse sibling decade sections in the left nav */
+.md-nav__item--section:not(.md-nav__item--active) > .md-nav__list {
+  display: none;
+}
