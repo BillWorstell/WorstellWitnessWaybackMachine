@@ -52,14 +52,13 @@ nav:
           - New Country: "decades/1610-1620/1610-1620-NewCountry.md"
           - Old Country: "decades/1610-1620/1610-1620-OldCountry.md"
 
-  - Downloads:
-      - "Decade 1600–1610": "downloads/decades/1600-1610/Readme.md"
-      - "Decade 1610–1620": "downloads/decades/1610-1620/ReadMe.md"
+  - Downloads: downloads/index.md
 
   - About:
       - Overview: overview.md
       - Methods & Data: methods-data.md
       - Bibliography: bibliography.md
+
 
 
 
