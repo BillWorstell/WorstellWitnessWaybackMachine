@@ -13,9 +13,14 @@ This folder contains the **web pages** for the 1610–1620 module. Use these pag
 
 ## Related downloads
 
-- Overview, Ancestral Lives, New/Old Country in `../../downloads/decades/1610-1620/`.
+- **1610–1620 Decade Module Overview** — PDF & DOCX  
+- **1610–1620 Ancestral Lives** — PDF & DOCX  
+- **1610–1620 New and Old Country Narratives** — PDF & DOCX  
+
+> Filenames may include en-dashes (–) and spaces; links on the website point here.
+
+### Where these appear on the site
+See: `Decades → 1610–1620` pages in the navigation. Quick links to these files are on the decade’s overview page
 
 ## Notes
-
-- **All 1619 materials** (assembly, headrights, first recorded Africans) belong in **this decade**.
 - Further viewing: *The Other States of America: History Portal* (YouTube) has strong pieces on Powhatan, early Jamestown, Champlain/Quebec, and early Dutch voyages.
