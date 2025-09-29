@@ -7,7 +7,7 @@ This folder holds the **downloadable handouts** that match the web pages in
 
 - **1610–1620 Decade Module Overview** — PDF & DOCX  
 - **1610–1620 Ancestral Lives** — PDF & DOCX  
-- **(Optional)** New Country / Old Country handouts (PDF & DOCX) if you export them later
+- **1610–1620 New and Old Country Narratives** — PDF & DOCX  
 
 > Filenames may include en-dashes (–) and spaces; links on the website point here.
 
