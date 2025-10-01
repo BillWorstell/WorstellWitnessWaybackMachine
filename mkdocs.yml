@@ -34,23 +34,10 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Decades:
-      # 1600–1610 block
-      - 1600–1610:
-          - Overview: "decades/1600-1610/1600-1610.md"
-          - Life & Context: "decades/1600-1610/1600-1610-life.md"
-          - Jamestown 1607–1610: "decades/1600-1610/1607-1610-Jamestown.md"
-          - Hudson 1609: "decades/1600-1610/1609-Hudson.md"
-          - New Country: "decades/1600-1610/1600-1610-NewCountry.md"
-          - Old Country: "decades/1600-1610/1600-1610-OldCountry.md"
-
-      # 1610–1620 block
-      - 1610–1620:
-          - Overview: "decades/1610-1620/1610-1620.md"
-          - Life & Context: "decades/1610-1620/1610-1620-life.md"
-          - Virginia 1619: "decades/1610-1620/1619-Virginia.md"
-          - Fort Nassau 1614–1618: "decades/1610-1620/1614-1618-FortNassau.md"
-          - New Country: "decades/1610-1620/1610-1620-NewCountry.md"
-          - Old Country: "decades/1610-1620/1610-1620-OldCountry.md"
+      - 1600–1610: decades/1600-1610/1600-1610.md
+      - 1610–1620: decades/1610-1620/1610-1620.md
+  - Downloads: downloads/index.md
+  - About: overview.md
 
   - Downloads:       
       # 1610–1620 block
@@ -63,6 +50,7 @@ nav:
       - Overview: overview.md
       - Methods & Data: methods-data.md
       - Bibliography: bibliography.md
+
 
 
 
