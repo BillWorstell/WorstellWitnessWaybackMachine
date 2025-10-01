@@ -1,6 +1,7 @@
 # Downloads
 
-Choose a decade:
+Use these folders to grab printable handouts (PDF) and editable files (DOCX).
 
-- **1600–1610** → [folder guide](decades/1600-1610/ReadMe.md)
-- **1610–1620** → [folder guide](decades/1610-1620/ReadMe.md)
+- **1600–1610** → [open folder](decades/1600-1610/)
+- **1610–1620** → [open folder](decades/1610-1620/)
+
