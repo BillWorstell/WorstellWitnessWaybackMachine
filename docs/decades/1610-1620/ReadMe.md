@@ -14,7 +14,7 @@ This folder contains the **web pages** for the 1610–1620 module. Use these pag
 ## Related downloads
 
 - **Decade Module Overview (PDF)** — a concise, printable guide
-  [Open PDF](../../downloads/decades/1610-1620/1610-1620%20Decade%20Module%20Overview.pdf)
+  [Open PDF](../../downloads/decades/1610-1620/1610-1620-Decade-Module-Overview.pdf)
   
 - **1610–1620 Decade Module Overview** — PDF & DOCX  
 - **1610–1620 Ancestral Lives** — PDF & DOCX  
