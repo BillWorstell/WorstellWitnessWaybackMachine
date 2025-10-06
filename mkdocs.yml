@@ -36,8 +36,19 @@ nav:
   - Decades:
       - 1600–1610: decades/1600-1610/1600-1610.md
       - 1610–1620: decades/1610-1620/1610-1620.md
+  - Decades:
+      - 1620–1630:
+          - Overview: decades/1620-1630/1620-1630.md
+          - Life & Context: decades/1620-1630/1620-1630-life.md
+          - Plymouth 1620–1627: decades/1620-1630/1620-Plymouth.md
+          - New Amsterdam 1624–1626: decades/1620-1630/1626-NewAmsterdam.md
+          - New Country: decades/1620-1630/1620-1630-NewCountry.md
+          - Old Country: decades/1620-1630/1620-1630-OldCountry.md
+          - Downloads: downloads/decades/1620-1630/ReadMe.md
+
   - Downloads: downloads/index.md
   - About: overview.md
+
 
 
 
