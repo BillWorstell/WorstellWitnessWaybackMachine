@@ -34,9 +34,6 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Decades:
-      - 1600–1610: decades/1600-1610/1600-1610.md
-      - 1610–1620: decades/1610-1620/1610-1620.md
-  - Decades:
       - 1620–1630:
           - Overview: decades/1620-1630/1620-1630.md
           - Life & Context: decades/1620-1630/1620-1630-life.md
@@ -48,6 +45,7 @@ nav:
 
   - Downloads: downloads/index.md
   - About: overview.md
+
 
 
 
