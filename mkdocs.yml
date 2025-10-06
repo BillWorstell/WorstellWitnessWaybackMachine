@@ -38,10 +38,10 @@ nav:
           - Overview: decades/1610-1620/1610-1620.md
           - Life & Context: decades/1610-1620/1610-1620-life.md
           - Virginia 1619: decades/1610-1630/1619-Virginia.md
-          - FortNassau 1614-1618: decades/1620-1630/1614-1618-FortNassau.md
-          - New Country: decades/1620-1630/1620-1630-NewCountry.md
-          - Old Country: decades/1620-1630/1620-1630-OldCountry.md
-          - Downloads: downloads/decades/1620-1630/ReadMe.md
+          - FortNassau 1614-1618: decades/1610-1620/1614-1618-FortNassau.md
+          - New Country: decades/1610-1620/1610-1620-NewCountry.md
+          - Old Country: decades/1610-1620/1610-1620-OldCountry.md
+          - Downloads: downloads/decades/1610-1620/ReadMe.md
       - 1620–1630:
           - Overview: decades/1620-1630/1620-1630.md
           - Life & Context: decades/1620-1630/1620-1630-life.md
@@ -53,6 +53,7 @@ nav:
 
   - Downloads: downloads/index.md
   - About: overview.md
+
 
 
 
