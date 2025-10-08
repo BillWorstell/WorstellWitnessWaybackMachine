@@ -16,3 +16,7 @@ Place these (PDF/DOCX) in `/docs/downloads/decades/1630-1640/`:
 - **1630–1640 Decade Module Overview** — PDF & DOCX  
 - **1630–1640 Ancestral Lives** — PDF & DOCX  
 - **1630–1640 New and Old Country Narratives** — PDF & DOCX
+
+## Further viewing
+- [Roger Williams and Providence (1636–1644)](https://www.youtube.com/watch?v=fDRJTnQKFzU)
+- [The Saybrook Colony: The Pequot War & a Refuge for Puritan Lords (1635–1644)](https://www.youtube.com/watch?v=9l0PlNGDFZM)
