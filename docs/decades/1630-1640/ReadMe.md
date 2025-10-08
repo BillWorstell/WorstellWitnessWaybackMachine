@@ -18,5 +18,19 @@ Place these (PDF/DOCX) in `/docs/downloads/decades/1630-1640/`:
 - **1630–1640 New and Old Country Narratives** — PDF & DOCX
 
 ## Further viewing
+**New France**
+- [Champlain Restored (1630–1635)](https://www.youtube.com/watch?v=SRE0JnfDBDU)
+- [The Return of the Iroquois (1635–1646)](https://www.youtube.com/watch?v=Rayn1RbNX4I)
+
+**New Sweden**
+- [I: Revenge of Peter Minuit (1638)](https://www.youtube.com/watch?v=jgVObVwrM4U)
+
+**New Netherland**
+- [VIII: Willem Kieft, Kieft’s War and Desolation (1638–1647)](https://www.youtube.com/watch?v=_eBqxp_EEvU)
+
+**New England**
 - [Roger Williams and Providence (1636–1644)](https://www.youtube.com/watch?v=fDRJTnQKFzU)
-- [The Saybrook Colony: The Pequot War & a Refuge for Puritan Lords (1635–1644)](https://www.youtube.com/watch?v=9l0PlNGDFZM)
+- [The Saybrook Colony: The Pequot War and a Refuge for Puritan Lords (1635–1644)](https://www.youtube.com/watch?v=9l0PlNGDFZM)
+
+**Wampanoag**
+- [The Wampanoag III: Wampanoag Antebellum (1625–1671)](https://www.youtube.com/watch?v=NWTqNMCCF74)
