@@ -23,6 +23,15 @@ This folder contains the **web pages** for the 1610–1620 module. Use these pag
 See: `Decades → 1610–1620` pages in the navigation. Quick links to these files are on the decade’s overview page
 
 ## Further viewing
-- [Iroquois Confederacy IV: Champlain’s Retreat and the Mohawk–Mahican War (1610–1628)](https://www.youtube.com/watch?v=X4nT2DjObhs)
-- [New Netherland III: The Fur Trade & the New Netherland Company (1610–1623)](https://www.youtube.com/watch?v=czeFItz476U)
+**New France**
+- [Champlain Digs In (1610–1619)](https://www.youtube.com/watch?v=N5qUXncJQEw)
+- [Acadia Resettled: Port Royal and Saint Sauveur (1610–1614)](https://www.youtube.com/watch?v=1i_vYWdmYZc)
+- [Nova Scotia and the Acadian Civil War (1615–1670)](https://www.youtube.com/watch?v=62G4y03u9Wc)
+
+**New Netherland**
+- [The Fur Trade & the New Netherland Company (1610–1623)](https://www.youtube.com/watch?v=czeFItz476U)
+
+**New England**
+- [After Popham: The Plymouth Company and the invention of New England (1608–1620)](https://www.youtube.com/watch?v=A6xei_7wNuc)
+
 
