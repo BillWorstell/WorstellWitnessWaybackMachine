@@ -22,5 +22,7 @@ This folder contains the **web pages** for the 1610–1620 module. Use these pag
 ### Where these appear on the site
 See: `Decades → 1610–1620` pages in the navigation. Quick links to these files are on the decade’s overview page
 
-## Notes
-- Further viewing: *The Other States of America: History Portal* (YouTube) has strong pieces on Powhatan, early Jamestown, Champlain/Quebec, and early Dutch voyages.
+## Further viewing
+- [Iroquois Confederacy IV: Champlain’s Retreat and the Mohawk–Mahican War (1610–1628)](https://www.youtube.com/watch?v=X4nT2DjObhs)
+- [New Netherland III: The Fur Trade & the New Netherland Company (1610–1623)](https://www.youtube.com/watch?v=czeFItz476U)
+
