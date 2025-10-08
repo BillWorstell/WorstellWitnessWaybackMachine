@@ -51,8 +51,12 @@ nav:
           - Old Country: decades/1620-1630/1620-1630-OldCountry.md
           - Downloads: downloads/decades/1620-1630/ReadMe.md
 
-  - Downloads: downloads/index.md
+  - Downloads:
+        - downloads/index.md
+        - Further viewing: downloads/further-viewing.md
+
   - About: overview.md
+
 
 
 
