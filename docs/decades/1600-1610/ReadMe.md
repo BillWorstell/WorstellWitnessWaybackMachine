@@ -16,6 +16,7 @@ This folder contains the **web pages** for the 1600–1610 module. Use these pag
 - **Decade Module Overview (PDF / DOCX)** in `docs/downloads/decades/1600-1610/`  
   *(can be moved later to `docs/downloads/decades/1600-1610/` for tidy URLs)*
 
-## Notes
+## Further viewing
+- [New France: Champlain Settles Quebec (1608–1610)](https://www.youtube.com/watch?v=_LjkTVfCWAc)
+- [The Iroquois Confederacy I: Origins](https://www.youtube.com/watch?v=396wAcW4Bkk)
 
-- For further viewing: *The Other States of America: History Portal* (YouTube) has strong background pieces on Powhatan, early Jamestown, Champlain/Quebec, Spanish Florida, and early Dutch voyages.
