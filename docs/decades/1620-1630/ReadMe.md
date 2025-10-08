@@ -17,5 +17,18 @@ Place these (PDF/DOCX) in `docs/downloads/decades/1620-1630/`:
 - **1620–1630 New and Old Country Narratives** (PDF / DOCX)
 
 ## Further viewing
-- [Roger Williams and Providence (1636–1644)](https://www.youtube.com/watch?v=fDRJTnQKFzU)
-- [The Saybrook Colony: The Pequot War & a Refuge for Puritan Lords (1635–1644)](https://www.youtube.com/watch?v=9l0PlNGDFZM)
+**New Netherland**
+- [The Dutch West India Company (1621–1626)](https://www.youtube.com/watch?v=dTaJvLm7290)
+- [V: Minuit buys Manhattan and Makes a Treaty with the Iroquois](https://www.youtube.com/watch?v=WzsFcjppcoc)
+- [VI: Van Rensselaer, Patroonships and Minuit gets Canned (1628–1631)](https://www.youtube.com/watch?v=TWs9fly-Yp0)
+
+**New England**
+- [Weston’s Wessagusset Colony (1622–1623)](https://www.youtube.com/watch?v=hZkg0vEUgGA)
+- [The Governor-General of New England: Robert Gorges at Wessagusset (1623–24) — audio](https://creators.spotify.com/pod/profile/osoa/episodes/The-Governor-General-of-New-England-Robert-Gorges-at-Wessagusset-1623-24-e2258gb)
+- [Nantasket, Cape Anne and Naumkeag Colonies: The Old Planters (1622–1628)](https://www.youtube.com/watch?v=zDdCH3TFZ3Y)
+- [Mount Wollaston, Merrymount and the Lord of Misrule (1624–1630)](https://www.youtube.com/watch?v=WaeyTXvix1I)
+- [The Province of Maine, New Somersetshire and the Plot to Destroy the Bay Colony (1622–1639)](https://www.youtube.com/watch?v=l0qzeDt9WNA)
+
+**Wampanoag**
+- [The Wampanoag II: Ousemequin’s World (1602–1624)](https://www.youtube.com/watch?v=dGm20J-PfVk)
+
