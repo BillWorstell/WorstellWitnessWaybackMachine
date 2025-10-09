@@ -38,6 +38,7 @@ nav:
 
   - Decades:
       - decades/index.md
+      - decades/bibliography.md
       - 1600–1610:
           - ReadMe: decades/1600-1610/ReadMe.md
           - Overview: decades/1600-1610/1600-1610.md
@@ -120,6 +121,9 @@ nav:
   - Places:
       - Norman's Kill: places/normans-kill-bushwick.md
       - Smit's Vly: places/smits-vly.md
+      - Amsterdam: places/amsterdam.md
+      - Tintern Angidy Wireworks: places/tintern-angidy-wireworks.md
+      - Wray Forest of Bowland: places/wray-forest-of-bowland.md      
 
   - About:
       - Project overview: overview.md
