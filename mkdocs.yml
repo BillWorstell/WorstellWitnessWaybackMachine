@@ -1,22 +1,19 @@
-site_name: "Ancestors\u2019 Eye \u2014 17th Century"
-site_description: "Decade-by-decade essays and dossiers (Virginia, New Netherland, Quaker Delaware Valley)"
+site_name: "Ancestors’ Eye — 17th Century"
 site_url: "https://billworstell.github.io/WorstellWitnessWaybackMachine/"
+repo_url: "https://github.com/BillWorstell/WorstellWitnessWaybackMachine"
+edit_uri: "edit/main/docs/"
 
 theme:
   name: material
   features:
     - navigation.sections
     - navigation.indexes
-    - navigation.tabs
-    - navigation.prune     # <— hide sibling decades; show only the active one
-    - toc.integrate        # <— move page ToC into the left nav (removes right rail)
+    - content.code.copy
+  icon:
+    repo: fontawesome/brands/github
 
-  palette:
-    scheme: default
-    
-extra_css:
-  - assets/extra.css
-  
+use_directory_urls: true
+
 plugins:
   - search
 
@@ -26,23 +23,42 @@ markdown_extensions:
   - def_list
   - footnotes
   - md_in_html
+  - toc:
+      permalink: true
   - pymdownx.details
   - pymdownx.superfences
-  - toc:
-      permalink: "¶"
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
 
 nav:
   - Home: index.md
+
   - Decades:
+      - decades/index.md
+      - 1600–1610:
+          - ReadMe: decades/1600-1610/ReadMe.md
+          - Overview: decades/1600-1610/1600-1610.md
+          - Life & Context: decades/1600-1610/1600-1610-life.md
+          - Jamestown 1607–1610: decades/1600-1610/1607-1610-Jamestown.md
+          - Hudson 1609: decades/1600-1610/1609-Hudson.md
+          - New Country: decades/1600-1610/1600-1610-NewCountry.md
+          - Old Country: decades/1600-1610/1600-1610-OldCountry.md
+          - Downloads: downloads/decades/1600-1610/ReadMe.md
       - 1610–1620:
+          - ReadMe: decades/1610-1620/ReadMe.md
           - Overview: decades/1610-1620/1610-1620.md
           - Life & Context: decades/1610-1620/1610-1620-life.md
-          - Virginia 1619: decades/1610-1630/1619-Virginia.md
-          - FortNassau 1614-1618: decades/1610-1620/1614-1618-FortNassau.md
+          - Virginia 1619: decades/1610-1620/1619-Virginia.md
+          - Plymouth 1620: decades/1610-1620/1620-Plymouth.md
+          - Fort Nassau 1614–1618: decades/1610-1620/1614-1618-FortNassau.md
           - New Country: decades/1610-1620/1610-1620-NewCountry.md
           - Old Country: decades/1610-1620/1610-1620-OldCountry.md
           - Downloads: downloads/decades/1610-1620/ReadMe.md
       - 1620–1630:
+          - ReadMe: decades/1620-1630/ReadMe.md
           - Overview: decades/1620-1630/1620-1630.md
           - Life & Context: decades/1620-1630/1620-1630-life.md
           - Plymouth 1620–1627: decades/1620-1630/1620-Plymouth.md
@@ -50,29 +66,62 @@ nav:
           - New Country: decades/1620-1630/1620-1630-NewCountry.md
           - Old Country: decades/1620-1630/1620-1630-OldCountry.md
           - Downloads: downloads/decades/1620-1630/ReadMe.md
+      - 1630–1640:
+          - ReadMe: decades/1630-1640/ReadMe.md
+          - Overview: decades/1630-1640/1630-1640.md
+          - Life & Context: decades/1630-1640/1630-1640-life.md
+          - Massachusetts Bay: decades\1630-1640\1630-MassachusettsBay.md
+          - Maryland 1634: decades\1630-1640\1634-Maryland.md
+          - New Country: decades/1630-1640/1630-1640-NewCountry.md
+          - Old Country: decades/1630-1640/1630-1640-OldCountry.md
+          - Downloads: downloads/decades/1630-1640/ReadMe.md
 
   - Downloads:
-        - downloads/index.md
-        - Further viewing: downloads/further-viewing.md
+      - ReadMe: downloads/ReadMe.md
+      - Overview: downloads/index.md
+      - 1600–1610 (folder): downloads/decades/1600-1610/index.md
+      - 1610–1620 (folder): downloads/decades/1610-1620/index.md
+      - 1620–1630 (folder): downloads/decades/1620-1630/index.md
+      - 1600–1610 (folder ReadMe): downloads/decades/1600-1610/ReadMe.md
+      - 1610–1620 (folder ReadMe): downloads/decades/1610-1620/ReadMe.md
+      - 1620–1630 (folder ReadMe): downloads/decades/1620-1630/ReadMe.md
+      - Further viewing: downloads/further-viewing.md
+      - Templates:
+           - ReadMe: downloads\templates\ReadMe.md
+           - Folder ReadMe: downloads\templates\Decade_Folder_ReadMe_TEMPLATE.md
+           - Overview: downloads\templates\Decade_Module_Overview_TEMPLATE.md
+           - Event Essay: downloads\templates\Event_Essay_TEMPLATE.md
+           - Life & Context: downloads\templates\Life_and_Context_TEMPLATE.md
 
-  - About: overview.md
+  - Families:
+      - Powell:
+          - Overview: families/powell/index.md
+          - 1600–1610: families/powell/1600-1610.md
+          - 1610–1620: families/powell/1610-1620.md
+          - 1620–1630: families/powell/1620-1630.md
+          - 1630–1640: families/powell/1630-1640.md
+      - Williams:
+          - Overview: families/williams/index.md
+          - 1600–1610: families/williams/1600-1610.md
+          - 1610–1620: families/williams/1610-1620.md
+          - 1620–1630: families/williams/1620-1630.md
+          - 1630–1640: families/williams/1630-1640.md
+      - Worstell:
+          - Overview: families/worstell/index.md
+          - 1600–1610: families/worstell/1600-1610.md
+          - 1610–1620: families/worstell/1610-1620.md
+          - 1620–1630: families/worstell/1620-1630.md
+          - 1630–1640: families/worstell/1630-1640.md
+      - Various:
+          - DircksVolckertszen: families/volckertszen-dircks.md
+          - DirksVolkert: families/volkert-dircks.md
+          - Worstall: families/worstall.md
 
+  - Places:
+      - Norman's Kill: places/normans-kill-bushwick.md
+      - Smit's Vly: places/smits-vly.md
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  - About:
+      - Project overview: overview.md
+      - Methods & Data: methods-data.md
+      - Bibliography: bibliography.md

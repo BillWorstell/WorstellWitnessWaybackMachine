@@ -12,8 +12,8 @@ This folder contains the **web pages** for the 1610â€“1620 module. Use thes
 - **[1610-1620-OldCountry.md](./1610-1620-OldCountry.md):** Europe drivers & timeline.
 
 ## Related downloads
-- Decade Module Overview (PDF): [/WorstellWitnessWaybackMachine/downloads/decades/1610-1620/1610-1620%20Decade%20Module%20Overview.pdf](/WorstellWitnessWaybackMachine/downloads/decades/1610-1620/1610-1620%20Decade%20Module%20Overview.pdf)
-- Decade Module Overview (DOCX): [/WorstellWitnessWaybackMachine/downloads/decades/1610-1620/1610-1620%20Decade%20Module%20Overview.docx](/WorstellWitnessWaybackMachine/downloads/decades/1610-1620/1610-1620%20Decade%20Module%20Overview.docx)
+- Decade Module Overview (PDF): [../../downloads/decades/1610-1620/1610-1620-Decade-Module-Overview.pdf](../../downloads/decades/1610-1620/1610-1620-Decade-Module-Overview.pdf)
+- Decade Module Overview (DOCX): [../../downloads/decades/1610-1620/1610-1620-Decade-Module-Overview.docx](../../downloads/decades/1610-1620/1610-1620-Decade-Module-Overview.docx)
 
 ## Further viewing
 **New France**

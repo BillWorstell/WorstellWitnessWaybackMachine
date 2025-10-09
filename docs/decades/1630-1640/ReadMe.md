@@ -12,8 +12,10 @@ This folder contains the **web pages** for the 1630â€“1640 module. Use thes
 - **Old Country (Europe) â€” Drivers & timeline** â€” [1630-1640-OldCountry.md](1630-1640-OldCountry.md)
 
 ## Related downloads
-- Decade Module Overview (PDF): [/WorstellWitnessWaybackMachine/downloads/decades/1630-1640/1630-1640%20Decade%20Module%20Overview.pdf](/WorstellWitnessWaybackMachine/downloads/decades/1630-1640/1630-1640%20Decade%20Module%20Overview.pdf)
-- Decade Module Overview (DOCX): [/WorstellWitnessWaybackMachine/downloads/decades/1630-1640/1630-1640%20Decade%20Module%20Overview.docx](/WorstellWitnessWaybackMachine/downloads/decades/1630-1640/1630-1640%20Decade%20Module%20Overview.docx)
+- **1630–1640 Decade Module Overview** — PDF & DOCX  
+- **1630–1640 Ancestral Lives** — PDF & DOCX  
+- **1630–1640 New and Old Country Narratives** — PDF & DOCX  
+
 
 ## Further viewing
 **New France**

@@ -1,0 +1,9 @@
+# 1600–1610 — Downloads
+
+This folder holds the downloadable handouts that match the web pages in [/decades/1600-1610/index.md](../../decades/1600-1610/index.md).
+
+## Files
+- **Decade Module Overview** — [Open PDF](1600-1610-Decade-Module-Overview.pdf) · [Open DOCX](1600-1610-Decade-Module-Overview.docx)
+- **Ancestral Lives (1600–1610)** — [Open PDF](1600-1610-Ancestral-Lives.pdf) · [Open DOCX](1600-1610-Ancestral-Lives.docx)
+- **New Country Narratives (1600–1610)** — [Open PDF](1600-1610-NewCountry.pdf) · [Open DOCX](1600-1610-NewCountry.docx)
+- **Old Country Narratives (1600–1610)** — [Open PDF](1600-1610-OldCountry.pdf) · [Open DOCX](1600-1610-OldCountry.docx)

@@ -19,8 +19,8 @@ A shallow **marshy hollow** at the East River edge. Houses cluster just above ti
 - **Approximate area:** near **Pearl Street & Maiden Lane** (later infilled and flattened).
 
 ## Linked people & pages
-- **Family:** [Volckertszen / Dircks](/families/volckertszen-dircks/)
-- **Decades:** [1600s overview](/decades/1600s/), [1640–1650](/decades/1640-1650/)
+- **Family:** [Volckertszen / Dircks](../families/volckertszen-dircks.md)
+- **Decades:** [1600s overview](../decades/1600-1610/1600-1610.md)
 
 ## Primary sources & maps to use
 - **Castello Plan (ca. 1660) and modern redrawings** — lots and lanes around the vly.
