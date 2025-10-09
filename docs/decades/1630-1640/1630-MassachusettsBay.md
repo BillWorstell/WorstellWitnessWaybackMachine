@@ -1,11 +1,15 @@
-# Massachusetts Bay, 1630 — Boston & the covenant town
+# Massachusetts Bay 1630 — A great migration begins
 
-The 1630 fleet plants a covenant society along Massachusetts Bay. **Boston** becomes a hub of town-meeting governance, gathered churches, and a village-commons economy. New towns radiate outward with lots, meadows, and woodlots; household economies mix subsistence with market exchange.
+**The fleet.**  
+In 1630 eleven ships carried some 700 passengers to Massachusetts Bay. Boston, Charlestown, Roxbury, Dorchester, Watertown, and Cambridge took shape within months—each organized around a gathered church and a town covenant.
 
-**Institutions & episodes**
-- **Church & town:** church membership and voting intertwine; freeman status matters; ministers and magistrates shape policy.
-- **Learning & dissent:** a college (1636) signals investment in literacy; challenges by **Roger Williams** and **Anne Hutchinson** reveal a contested civic-religious order.
-- **Labor & land:** family labor predominates; servants and apprentices work inside households; fields expand through negotiated purchase, grants, and conflict.
+**Covenant & commonwealth.**  
+Freemanship linked civil voice to church membership. Selectmen managed commons and rates; county courts tied towns together. By mid-decade the Bay exported boards, fish, and livestock to pay for imports.
 
-**Documents to look for**
-- Town votes, lot lists, covenants, freeman rolls; court cases; church admissions and discipline notes.
+**People in motion.**  
+Kin networks streamed from East Anglia and the West Country. New arrivals fanned out to the **Connecticut River** towns (Hartford, Windsor, Wethersfield), and to **New Haven** (1638). **Harvard College** opened in 1636 to train ministers.
+
+**Dissent & edges.**  
+Religious and political disputes produced new settlements: **Roger Williams** left for Providence (1636); the **Antinomian** controversy crested in 1637; allied New Englanders fought the **Pequot War** the same year.
+
+*Use this essay with town pages and family lines to track who arrived when, which congregation they joined, and where they went next.*

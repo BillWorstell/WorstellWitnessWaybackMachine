@@ -1,11 +1,17 @@
-# Old Country (Europe) — Drivers & timeline
+# Old Country — Drivers & timeline (1630–1640)
 
-### Drivers
-- **Religious & political pressures in England** (Personal Rule after 1629) push ministers, merchants, and kin toward New England; debates about church order travel with them.  
-- **Dutch Atlantic commerce & war** steer ships, credit, and migrants; patroon investments tie Amsterdam capital to Hudson River estates.  
-- **The Thirty Years’ War** convulses continental politics and trade, indirectly touching migration flows and prices.
+**War & credit.**  
+The **Thirty Years’ War** (Swedish, then French phases) keeps armies marching and taxes rising. Dutch-Spanish fighting continues in the Low Countries; Amsterdam’s merchants extend Atlantic credit despite the strain.
 
-### Timeline, highlights
-- **1630–1632:** Shifts in continental war and commerce; English dissent hardens.  
-- **1633–1636:** Merchant networks funnel credit, supplies, and kin to New England and the Chesapeake.  
-- **1637–1639:** Pamphlet wars and policy turns at home reverberate in the colonies; trading charters adjust in the Low Countries.  
+**England’s “Personal Rule.”**  
+With Parliament dissolved (1629), Charles I governs by prerogative; Archbishop **Laud** enforces church order—pressures that help drive the **Great Migration** to New England until 1640.
+
+**Atlantic economy.**  
+Dutch seize parts of **Brazil** (1630), sugar booms, and shipping interlocks with North American timber, fish, and livestock trades.
+
+## Timeline (select)
+
+- **1630–1635** — Swedish successes in Germany; financing burdens widen.  
+- **1635** — France enters war directly; cross-Channel privateering increases risk.  
+- **1637–1639** — Economic shocks and poor harvests ripple in Britain and the Low Countries.  
+- **By 1640** — English politics shift again (Short/Long Parliaments next decade), slowing the migration.

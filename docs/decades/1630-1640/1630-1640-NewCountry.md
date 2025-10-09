@@ -1,15 +1,19 @@
-# New Country (Americas) — Headcounts & timeline
+# New Country — Headcounts & timeline (1630–1640)
 
-### Headcounts (sketch)
-- **New England (Massachusetts Bay & satellites):** thousands arrive in a clustered “great migration,” founding multiple towns tied to Boston.
-- **Chesapeake (Virginia & Maryland):** population rises along the James, York, Potomac, and Patuxent as plantations multiply.
-- **New Netherland (Hudson):** upriver patroon estates and Manhattan expand; fur circuits remain the economic spine.
+## Headcounts (rule-of-thumb)
 
-*(Replace with numbers as you finalize the manuscript dataset.)*
+- **Virginia–Maryland:** rapidly rising; tobacco parishes ladder up the rivers.  
+- **Massachusetts Bay & environs:** thousands arrive (1630–1640 “Great Migration”); clustered towns radiate from Boston.  
+- **New Netherland:** hundreds in Manhattan and Fort Orange precincts; tenants spread across patroon tracts.
 
-### Timeline, highlights
-- **1630:** Fleet establishes Boston and towns along the bay.  
-- **1632–1634:** Maryland charter and founding at St. Mary’s City.  
-- **1634–1636:** Town & church networks multiply; dissenters migrate (e.g., to Providence).  
-- **1636–1637:** Pequot War reshapes southern New England.  
-- **1638–1639:** New Sweden enters the Delaware; policy shifts in New Netherland; more town charters in New England.  
+> Exact numbers vary by year; use with town records, patents, and shipping lists.
+
+## Timeline (select)
+
+- **1630** — Winthrop fleet to Massachusetts Bay; Boston and neighboring towns founded.  
+- **1632** — Charter of **Maryland**.  
+- **1634–1636** — Connecticut River towns founded; cattle and timber exports expand.  
+- **1636** — **Harvard College** established; disputes at Boston lead to banishments and new settlements.  
+- **1636–1637** — **Pequot War** in the lower Connecticut.  
+- **1638** — **New Haven** founded; Treaty of Hartford disperses Pequots.  
+- **1639** — Town codes and church covenants multiply; regional courts thicken oversight.  
