@@ -1,7 +1,7 @@
-# New Country — 1620–1630 — Headcounts & timeline
+# New Country ? 1620?1630 ? Headcounts & timeline
 
 **Crowd size (feel, not a census)**
-- **Plymouth:** a few hundred by decade’s end.  
+- **Plymouth:** a few hundred by decade?s end.  
 - **Hudson corridor:** company posts with sparse civilian households; dozens to low hundreds.  
 - **Chesapeake:** growing into the thousands; tobacco pulls migrants across.
 

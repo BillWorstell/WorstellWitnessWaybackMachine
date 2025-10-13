@@ -4,22 +4,22 @@ Primary-source briefs and narrative notes. Each dossier has a DOCX (editable) an
 
 ## Walloon / New Amsterdam network
 
-* **Guillaume Vigne (c.1580–1632)** — [DOCX](./Vigne-Guillaume-1580-1632.docx) · [PDF](./Vigne-Guillaume-1580-1632.pdf)
-* **Adrienne/Ariantje Cuvellier (c.1589–1650+)** — [DOCX](./Cuvellier-Adrienne-1589-1650.docx) · [PDF](./Cuvellier-Adrienne-1589-1650.pdf)
-* **Christyntje (Christina) Vigne (1610–1663)** — [DOCX](./Vigne-Christina-1610-1663.docx) · [PDF](./Vigne-Christina-1610-1663.pdf)
+* **Guillaume Vigne (c.1580?1632)** ? [DOCX](./Vigne-Guillaume-1580-1632.docx) ? [PDF](./Vigne-Guillaume-1580-1632.pdf)
+* **Adrienne/Ariantje Cuvellier (c.1589?1650+)** ? [DOCX](./Cuvellier-Adrienne-1589-1650.docx) ? [PDF](./Cuvellier-Adrienne-1589-1650.pdf)
+* **Christyntje (Christina) Vigne (1610?1663)** ? [DOCX](./Vigne-Christina-1610-1663.docx) ? [PDF](./Vigne-Christina-1610-1663.pdf)
 
-## Dutch / Bushwick–Long Island cluster
+## Dutch / Bushwick?Long Island cluster
 
-* **Dirck de Noorman (Volckertsen) (1595–1677)** — [DOCX](./Volckertsen-Dirck-1595-1677.docx) · [PDF](./Volckertsen-Dirck-1595-1677.pdf)
-* **Dorethea Volckers (c.1630–1658)** — [DOCX](./Volkers-Dorethea-1630-1658.docx) · [PDF](./Volkers-Dorethea-1630-1658.pdf)
-* **Pieter Jans de Witt (1624–1705)** — [DOCX](./deWitt-Pieter-1624-1705.docx) · [PDF](./deWitt-Pieter-1624-1705.pdf)
-* **Jan Janse de Jong (1636–1740)** — [DOCX](./deJong-Jan-1636-1740.docx) · [PDF](./deJong-Jan-1636-1740.pdf)
-* **Catharina de Brul (1639–1740)** — [DOCX](./deBrul-Catharina-1639-1740.docx) · [PDF](./deBrul-Catharina-1639-1740.pdf)
-* **Hendrick van Leeuwen (1630–1653)** — [DOCX](./vanLeeuwen-Hendrick-1630-1653.docx) · [PDF](./vanLeeuwen-Hendrick-1630-1653.pdf)
-* **Phillip Claesz Langelaen (1617–1662)** — [DOCX](./Langelaen-Phillip-Claesz-1617-1662.docx) · [PDF](./Langelaen-Phillip-Claesz-1617-1662.pdf)
+* **Dirck de Noorman (Volckertsen) (1595?1677)** ? [DOCX](./Volckertsen-Dirck-1595-1677.docx) ? [PDF](./Volckertsen-Dirck-1595-1677.pdf)
+* **Dorethea Volckers (c.1630?1658)** ? [DOCX](./Volkers-Dorethea-1630-1658.docx) ? [PDF](./Volkers-Dorethea-1630-1658.pdf)
+* **Pieter Jans de Witt (1624?1705)** ? [DOCX](./deWitt-Pieter-1624-1705.docx) ? [PDF](./deWitt-Pieter-1624-1705.pdf)
+* **Jan Janse de Jong (1636?1740)** ? [DOCX](./deJong-Jan-1636-1740.docx) ? [PDF](./deJong-Jan-1636-1740.pdf)
+* **Catharina de Brul (1639?1740)** ? [DOCX](./deBrul-Catharina-1639-1740.docx) ? [PDF](./deBrul-Catharina-1639-1740.pdf)
+* **Hendrick van Leeuwen (1630?1653)** ? [DOCX](./vanLeeuwen-Hendrick-1630-1653.docx) ? [PDF](./vanLeeuwen-Hendrick-1630-1653.pdf)
+* **Phillip Claesz Langelaen (1617?1662)** ? [DOCX](./Langelaen-Phillip-Claesz-1617-1662.docx) ? [PDF](./Langelaen-Phillip-Claesz-1617-1662.pdf)
 
 ## Powell / York line (validation packets)
 
-* **Emily York — Ancestry** — [DOCX](./York-Emily-Ancestry.docx) · [PDF](./York-Emily-Ancestry.pdf)
-* **Jonathan York — Ancestry** — [DOCX](./York-Jonathan-Ancestry.docx) · [PDF](./York-Jonathan-Ancestry.pdf)
-* **Elizabeth Fulkerson — Ancestry** — [DOCX](./Fulkerson-Elizabeth-Ancestry.docx) · [PDF](./Fulkerson-Elizabeth-Ancestry.pdf)
+* **Emily York ? Ancestry** ? [DOCX](./York-Emily-Ancestry.docx) ? [PDF](./York-Emily-Ancestry.pdf)
+* **Jonathan York ? Ancestry** ? [DOCX](./York-Jonathan-Ancestry.docx) ? [PDF](./York-Jonathan-Ancestry.pdf)
+* **Elizabeth Fulkerson ? Ancestry** ? [DOCX](./Fulkerson-Elizabeth-Ancestry.docx) ? [PDF](./Fulkerson-Elizabeth-Ancestry.pdf)

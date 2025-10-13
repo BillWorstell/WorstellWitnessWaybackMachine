@@ -1,7 +1,7 @@
-# Massachusetts Bay 1630 — A great migration begins
+# Massachusetts Bay 1630 ? A great migration begins
 
 **The fleet.**  
-In 1630 eleven ships carried some 700 passengers to Massachusetts Bay. Boston, Charlestown, Roxbury, Dorchester, Watertown, and Cambridge took shape within months—each organized around a gathered church and a town covenant.
+In 1630 eleven ships carried some 700 passengers to Massachusetts Bay. Boston, Charlestown, Roxbury, Dorchester, Watertown, and Cambridge took shape within months?each organized around a gathered church and a town covenant.
 
 **Covenant & commonwealth.**  
 Freemanship linked civil voice to church membership. Selectmen managed commons and rates; county courts tied towns together. By mid-decade the Bay exported boards, fish, and livestock to pay for imports.

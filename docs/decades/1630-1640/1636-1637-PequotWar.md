@@ -1,4 +1,4 @@
-# Pequot War 1636–1637 — Contested frontiers
+# Pequot War 1636?1637 ? Contested frontiers
 
 **Trigger & players.**  
 Tensions over trade routes and tributaries on the lower Connecticut escalated after the killing of trader John Oldham (1636). English towns (Massachusetts Bay, Plymouth, the new Connecticut settlements) allied with **Mohegan** and **Narragansett** opponents of the **Pequot**.

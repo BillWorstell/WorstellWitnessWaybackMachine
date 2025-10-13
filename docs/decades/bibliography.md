@@ -1,10 +1,10 @@
 # Bibliography & Background Notes
 
-> This page holds brief background notes and “further reading” pointers you can cite from decade pages.  
+> This page holds brief background notes and ?further reading? pointers you can cite from decade pages.  
 > Keep entries short; store full citations in your manuscript or Zotero library.
 
 <!-- Explicit ID so links like ../bibliography.md#background-1600s resolve reliably -->
-<h2 id="background-1600s">Background—1600s</h2>
+<h2 id="background-1600s">Background?1600s</h2>
 
 **Atlantic world overview**
 - Trade corridors linking the Baltic, North Sea, and Atlantic grow; Dutch commercial finance and mapping lead early.

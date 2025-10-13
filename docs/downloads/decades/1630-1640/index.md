@@ -1,19 +1,19 @@
-# 1630–1640 — Downloads
+# 1630?1640 ? Downloads
 
 This folder holds the downloadable handouts that match the web pages in
 `/docs/decades/1630-1640/`.
 
 ## Files (expected set)
 
-- **1630-1640 Decade Module Overview — PDF & DOCX**
+- **1630-1640 Decade Module Overview ? PDF & DOCX**
   - [Open PDF](./1630-1640-Decade-Module-Overview.pdf)
   - [Open DOCX](./1630-1640-Decade-Module-Overview.docx)
 
-- **1630-1640 Ancestral Lives — PDF & DOCX**
+- **1630-1640 Ancestral Lives ? PDF & DOCX**
   - [Open PDF](./1630-1640-Ancestral-Lives.pdf)
   - [Open DOCX](./1630-1640-Ancestral-Lives.docx)
 
-- **1630-1640 New and Old Country Narratives — PDF & DOCX**
+- **1630-1640 New and Old Country Narratives ? PDF & DOCX**
   - [Open PDF](./1630-1640-New-and-Old-Country-Narratives.pdf)
   - [Open DOCX](./1630-1640-New-and-Old-Country-Narratives.docx)
 
@@ -21,5 +21,5 @@ This folder holds the downloadable handouts that match the web pages in
 
 ## Where these appear on the site
 
-See: **Decades → 1630–1640** pages in the navigation. Quick links to these
-files are also on that decade’s **Overview** page.
+See: **Decades ? 1630?1640** pages in the navigation. Quick links to these
+files are also on that decade?s **Overview** page.

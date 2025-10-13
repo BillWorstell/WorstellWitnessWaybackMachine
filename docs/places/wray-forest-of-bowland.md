@@ -1,4 +1,4 @@
-# Wray — Forest of Bowland (Lancashire)
+# Wray ? Forest of Bowland (Lancashire)
 
 A small upland village on the River Roeburn, in the **Forest of Bowland** (north Lancashire).  
 In the early 1600s this was a landscape of scattered farms, hamlets, and packhorse tracks.  
@@ -8,7 +8,7 @@ industries (spinning, weaving, tanning, and related trades) dotted the valleys.
 ## At a glance (17th century)
 - **Region:** North-west England (Lancashire / Bowland fells)
 - **Economy:** Yeoman farming; stock raising; later cottage industries using water power
-- **Religion & society:** Mixed—Anglican conformity alongside pockets of recusancy and
+- **Religion & society:** Mixed?Anglican conformity alongside pockets of recusancy and
   emerging dissent; kin and neighbor networks were tight knit
 - **Routes out:** Apprenticeships and trade links toward Lancaster, Preston, and the Irish Sea;
   seasonal service pulled youths toward towns
@@ -19,5 +19,5 @@ Atlantic world. Knowledge of **rural craft skills** and **small capital** (tools
 made Bowland folk mobile when chances arose.
 
 ## Related pages
-- 1600–1610 Life & Context → [1600–1610-life.md](../decades/1600-1610/1600-1610-life.md)
-- Jamestown 1607–1610 → [1607–1610-Jamestow]()
+- 1600?1610 Life & Context ? [1600?1610-life.md](../decades/1600-1610/1600-1610-life.md)
+- Jamestown 1607?1610 ? [1607?1610-Jamestow]()

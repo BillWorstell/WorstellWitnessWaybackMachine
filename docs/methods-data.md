@@ -1,7 +1,7 @@
 # Methods & Data
 
 ## Population feel (not a census)
-We model “crowd size” by triangulating:
+We model ?crowd size? by triangulating:
 - Muster rolls & shipping logs
 - Parish/meeting density
 - Court throughput and ferry traffic
