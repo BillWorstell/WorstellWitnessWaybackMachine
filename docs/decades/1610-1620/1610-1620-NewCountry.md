@@ -1,4 +1,4 @@
----
+﻿---
 title: NEW COUNTRY ? 1610?1620
 summary: Headcounts, settlement scale, and decade timeline for Virginia, the Hudson, Quebec, and Spanish Florida.
 ---
@@ -26,3 +26,4 @@ summary: Headcounts, settlement scale, and decade timeline for Virginia, the Hud
 - **Hudson:** a trade **circuit**, not a colony?canoes, copper, pelts, and departure.  
 - **Quebec:** a warehouse and a few guns on a cliff, living by treaty and kinship.  
 - **Florida:** missions and patrols; Spanish power thin on the ground.
+

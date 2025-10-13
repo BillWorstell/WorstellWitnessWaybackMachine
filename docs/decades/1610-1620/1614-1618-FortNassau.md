@@ -1,4 +1,4 @@
----
+﻿---
 title: 1614?1618 ? Fort Nassau on the Upper Hudson
 summary: A tiny Dutch trade house signals claims in the valley; Indigenous nations still set the terms.
 ---
@@ -20,3 +20,4 @@ Dutch merchants, operating under a short monopoly (**New Netherland Company**), 
 Canoes glide to the shallows with beaver and otter; kettles and knives change hands; an arquebus thunders once to impress or to warn. By spring the river is quiet again?the Dutch have sailed, and your village still names the bends.
 
 > **Pairs with:** [1610?1620-NewCountry](./1610-1620-NewCountry.md) and [1610?1620-life](./1610-1620-life.md).
+

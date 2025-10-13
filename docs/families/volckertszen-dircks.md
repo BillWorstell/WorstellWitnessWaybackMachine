@@ -1,4 +1,4 @@
----
+﻿---
 title: Volckertszen / Dircks (New Amsterdam ? Bushwick)
 summary: A ship?s-carpenter family at Smit?s Vly paired with a shore plot at Noorman?s Kill/Bushwick.
 ---
@@ -22,3 +22,4 @@ summary: A ship?s-carpenter family at Smit?s Vly paired with a shore plot at Noo
 - Place: [Noorman?s Kill / Bushwick shore](../places/normans-kill-bushwick.md)
 
 *Scaffold created 2025-09-22 15:39. Add citations as you collect folio/entry lines.*
+

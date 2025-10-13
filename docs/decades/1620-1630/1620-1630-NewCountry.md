@@ -1,4 +1,4 @@
-# New Country ? 1620?1630 ? Headcounts & timeline
+﻿# New Country ? 1620?1630 ? Headcounts & timeline
 
 **Crowd size (feel, not a census)**
 - **Plymouth:** a few hundred by decade?s end.  
@@ -13,4 +13,5 @@
 
 **Ancestor checklist**
 - What records could your person leave? Passenger lists, contracts, court orders, muster, land apportionments, company books.
+
 

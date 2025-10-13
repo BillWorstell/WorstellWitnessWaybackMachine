@@ -1,4 +1,4 @@
-# Plymouth, 1620?1627 ? a town from a ship
+﻿# Plymouth, 1620?1627 ? a town from a ship
 
 **Scene:** a harbor townlet on a hill above fields, with a working treaty (Wampanoag?Plymouth), high mortality early, and steady learning about corn, fish, and seasonal labor.
 
@@ -13,4 +13,5 @@
 
 **Documents of the decade (starter set)**
 - Bradford?s chronicle excerpts; 1623 land division; 1627 cattle lots; treaty notes.
+
 

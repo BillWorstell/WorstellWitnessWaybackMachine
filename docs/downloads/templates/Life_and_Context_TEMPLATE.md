@@ -1,4 +1,4 @@
----
+﻿---
 title: {DECADE} ? Life & Context (TEMPLATE)
 summary: Use this to build the ancestor?s-eye narrative. 4?6 short sections, one per lineage or region.
 ---

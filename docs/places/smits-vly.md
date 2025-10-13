@@ -1,4 +1,4 @@
----
+﻿---
 title: Smit?s Vly (Smith?s Valley), Manhattan
 summary: A low, marshy cove on the East River (near today?s Pearl St. & Maiden Lane); shipwrights, ferries, and a market edge where lanes meet the tide.
 ---
@@ -32,4 +32,5 @@ A shallow **marshy hollow** at the East River edge. Houses cluster just above ti
       ```markdown
       ![Smit?s Vly on the Castello Plan](../figures/smits-vly-castello.png)
       ```
+
 

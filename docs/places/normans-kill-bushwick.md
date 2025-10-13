@@ -1,4 +1,4 @@
----
+﻿---
 title: Noorman?s (Norman?s) Kill ? Bushwick/Greenpoint Shore, Long Island
 summary: Opposite Smit?s Vly: meadows, inlets, and small farms; ferries and skiffs cross daily.
 ---
@@ -19,3 +19,4 @@ A **low, watery fringe** of creeks and inlets along the Long Island side of the 
 - Nearby: [Smit?s Vly](../places/smits-vly.md)
 
 *Scaffold created 2025-09-22 15:39. Add maps, parcels, and citations as you confirm.*
+

@@ -1,4 +1,4 @@
-# 1600?1610 ? Downloads
+﻿# 1600?1610 ? Downloads
 
 This folder holds the downloadable handouts that match the web pages in
 `/decades/1600-1610/`.
@@ -12,3 +12,4 @@ This folder holds the downloadable handouts that match the web pages in
   (Use the decade?s overview page for direct download links.)
 
 *Filenames may include en-dashes and spaces; links on the website point here.*
+

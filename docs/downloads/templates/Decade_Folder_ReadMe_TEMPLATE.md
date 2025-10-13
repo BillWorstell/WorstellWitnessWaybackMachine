@@ -1,4 +1,4 @@
-# {DECADE} ? Folder Guide (TEMPLATE)
+﻿# {DECADE} ? Folder Guide (TEMPLATE)
 
 This file lives in `/docs/decades/{DECADE_SLUG}/` and lists the **web pages** for the decade.
 Use relative links and keep it brief.

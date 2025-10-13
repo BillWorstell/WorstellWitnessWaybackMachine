@@ -1,4 +1,4 @@
-# 1) Downloadable templates (ready now)
+﻿# 1) Downloadable templates (ready now)
 
 - Decade_Module_Overview_TEMPLATE.md
 
@@ -31,3 +31,4 @@
 - / Life_and_Context_TEMPLATE.md ? 1610-1619-life.md
 
 (I kept placeholders like {DECADE} and {DECADE_SLUG} to make duplicating safer.)
+

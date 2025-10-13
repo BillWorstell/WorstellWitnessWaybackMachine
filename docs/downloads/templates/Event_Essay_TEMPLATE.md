@@ -1,4 +1,4 @@
----
+﻿---
 title: {EVENT_TITLE} ? {EVENT_TAGLINE}
 summary: TEMPLATE ? Replace with a tight ancestor?s-eye essay (800?1200 words).
 ---

@@ -1,4 +1,4 @@
-## Mini-bio: Volkert Dircks (bapt. 1643)
+﻿## Mini-bio: Volkert Dircks (bapt. 1643)
 
 **Who:** Son of **Dirck Volckertszen (?de Noorman?)** and **Christina (Vigne)**; **baptized 1643** in the New Amsterdam Dutch Reformed Church.
 
@@ -17,3 +17,4 @@
 - **Town/land papers** in **Boswijck (Bushwick)** for meadow or path references.
 
 *Add precise citations as you collect register lines and document page/folio numbers.*
+

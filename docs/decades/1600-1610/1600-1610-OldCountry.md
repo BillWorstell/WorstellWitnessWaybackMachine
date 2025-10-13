@@ -1,4 +1,4 @@
----
+﻿---
 title: OLD COUNTRY ? 1600?1610
 summary: European settings (England/Wales, Dutch Republic, Brittany/France, Swiss/German lands) that shaped New World stories.
 ---
@@ -25,3 +25,4 @@ summary: European settings (England/Wales, Dutch Republic, Brittany/France, Swis
 Stone farmhouses and timber cottages; hedges going up over commons; Dutch countinghouses and canals; a Brittany city healing from war; Swiss chalets under advancing Little Ice Age glaciers; Palatinate towns prosperous but uneasy.
 
 *Pair this with the New Country sheet and the Life & Context narrative.*
+

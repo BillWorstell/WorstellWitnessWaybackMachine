@@ -1,4 +1,4 @@
-# Amsterdam (Dutch Republic)
+﻿# Amsterdam (Dutch Republic)
 
 **Amsterdam** was the Dutch Republic?s commercial engine in the early 1600s. Its bourse,
 warehouses, shipyards, presses, and merchant credit powered ventures from the Baltic to
@@ -23,3 +23,4 @@ corridor?and the headcounts we track in New Country pages?run through Amsterdam?
 - New Country (Americas) 1620?1630 ? [1620?1630-NewCountry.md](../decades/1620-1630/1620-1630-NewCountry.md)
 
 > _Use this ?place card? whenever Atlantic-Dutch capital or routes explain people flows._
+

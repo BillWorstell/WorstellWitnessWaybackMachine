@@ -1,10 +1,10 @@
-# Decade 1620�1630 � Folder Guide
+﻿# Decade 1620ï¿½1630 ï¿½ Folder Guide
 
-This folder contains the **web pages** for the 1620�1630 module. Use these pages in the site navigation; the matching DOCX/PDF downloads live in `docs/downloads/decades/1620-1630/`.
+This folder contains the **web pages** for the 1620ï¿½1630 module. Use these pages in the site navigation; the matching DOCX/PDF downloads live in `docs/downloads/decades/1620-1630/`.
 
 ## Contents
 - [1620-1630.md](1620-1630.md): front door for the decade (quick links).  
-- [1620-1630-life.md](1620-1630-life.md): ancestor�s-eye narrative (4 lineages).  
+- [1620-1630-life.md](1620-1630-life.md): ancestorï¿½s-eye narrative (4 lineages).  
 - [1620-Plymouth.md](1620-Plymouth.md): deep dive on Plymouth.  
 - [1626-NewAmsterdam.md](1626-NewAmsterdam.md): deep dive on Dutch Manhattan/Fort Orange.  
 - [1620-1630-NewCountry.md](1620-1630-NewCountry.md): Americas headcounts & timeline.  
@@ -16,19 +16,20 @@ This folder contains the **web pages** for the 1620�1630 module. Use these pag
 
 ## Further viewing
 **New Netherland**
-- [The Dutch West India Company (1621�1626)](https://www.youtube.com/watch?v=dTaJvLm7290)
+- [The Dutch West India Company (1621ï¿½1626)](https://www.youtube.com/watch?v=dTaJvLm7290)
 - [V: Minuit buys Manhattan and Makes a Treaty with the Iroquois](https://www.youtube.com/watch?v=WzsFcjppcoc)
-- [VI: Van Rensselaer, Patroonships and Minuit gets Canned (1628�1631)](https://www.youtube.com/watch?v=TWs9fly-Yp0)
+- [VI: Van Rensselaer, Patroonships and Minuit gets Canned (1628ï¿½1631)](https://www.youtube.com/watch?v=TWs9fly-Yp0)
 
 **New England**
-- [Weston�s Wessagusset Colony (1622�1623)](https://www.youtube.com/watch?v=hZkg0vEUgGA)
-- [The Governor-General of New England: Robert Gorges at Wessagusset (1623�24) � audio](https://creators.spotify.com/pod/profile/osoa/episodes/The-Governor-General-of-New-England-Robert-Gorges-at-Wessagusset-1623-24-e2258gb)
-- [Nantasket, Cape Anne and Naumkeag Colonies: The Old Planters (1622�1628)](https://www.youtube.com/watch?v=zDdCH3TFZ3Y)
-- [Mount Wollaston, Merrymount and the Lord of Misrule (1624�1630)](https://www.youtube.com/watch?v=WaeyTXvix1I)
-- [The Province of Maine, New Somersetshire and the Plot to Destroy the Bay Colony (1622�1639)](https://www.youtube.com/watch?v=l0qzeDt9WNA)
+- [Westonï¿½s Wessagusset Colony (1622ï¿½1623)](https://www.youtube.com/watch?v=hZkg0vEUgGA)
+- [The Governor-General of New England: Robert Gorges at Wessagusset (1623ï¿½24) ï¿½ audio](https://creators.spotify.com/pod/profile/osoa/episodes/The-Governor-General-of-New-England-Robert-Gorges-at-Wessagusset-1623-24-e2258gb)
+- [Nantasket, Cape Anne and Naumkeag Colonies: The Old Planters (1622ï¿½1628)](https://www.youtube.com/watch?v=zDdCH3TFZ3Y)
+- [Mount Wollaston, Merrymount and the Lord of Misrule (1624ï¿½1630)](https://www.youtube.com/watch?v=WaeyTXvix1I)
+- [The Province of Maine, New Somersetshire and the Plot to Destroy the Bay Colony (1622ï¿½1639)](https://www.youtube.com/watch?v=l0qzeDt9WNA)
 
 **Wampanoag**
-- [The Wampanoag II: Ousemequin�s World (1602�1624)](https://www.youtube.com/watch?v=dGm20J-PfVk)
+- [The Wampanoag II: Ousemequinï¿½s World (1602ï¿½1624)](https://www.youtube.com/watch?v=dGm20J-PfVk)
+
 
 
 

@@ -1,4 +1,4 @@
-# Wray ? Forest of Bowland (Lancashire)
+﻿# Wray ? Forest of Bowland (Lancashire)
 
 A small upland village on the River Roeburn, in the **Forest of Bowland** (north Lancashire).  
 In the early 1600s this was a landscape of scattered farms, hamlets, and packhorse tracks.  
@@ -21,3 +21,4 @@ made Bowland folk mobile when chances arose.
 ## Related pages
 - 1600?1610 Life & Context ? [1600?1610-life.md](../decades/1600-1610/1600-1610-life.md)
 - Jamestown 1607?1610 ? [1607?1610-Jamestow]()
+

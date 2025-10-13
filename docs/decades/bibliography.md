@@ -1,4 +1,4 @@
-# Bibliography & Background Notes
+﻿# Bibliography & Background Notes
 
 > This page holds brief background notes and ?further reading? pointers you can cite from decade pages.  
 > Keep entries short; store full citations in your manuscript or Zotero library.
@@ -28,3 +28,4 @@
 ---
 
 ## Notes for maintain
+

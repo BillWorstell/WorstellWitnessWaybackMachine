@@ -1,4 +1,4 @@
----
+﻿---
 title: OLD COUNTRY ? 1610?1620
 summary: European drivers that shaped New World choices: truce, reform, and the first sparks of a continental war.
 ---
@@ -22,3 +22,4 @@ summary: European drivers that shaped New World choices: truce, reform, and the 
 ## What life felt like (home countries)
 
 Stone farmhouses and hedged fields; canals and countinghouses; regimented Ulster towns; Swiss valleys stacking timber against uncertainty. The talk is of doctrine, wool prices, and war rumors?and of ships whose westbound wake might be a way out.
+

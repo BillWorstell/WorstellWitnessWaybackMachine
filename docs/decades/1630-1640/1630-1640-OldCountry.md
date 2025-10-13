@@ -1,4 +1,4 @@
-# Old Country ? Drivers & timeline (1630?1640)
+﻿# Old Country ? Drivers & timeline (1630?1640)
 
 **War & credit.**  
 The **Thirty Years? War** (Swedish, then French phases) keeps armies marching and taxes rising. Dutch-Spanish fighting continues in the Low Countries; Amsterdam?s merchants extend Atlantic credit despite the strain.
@@ -15,3 +15,4 @@ Dutch seize parts of **Brazil** (1630), sugar booms, and shipping interlocks wit
 - **1635** ? France enters war directly; cross-Channel privateering increases risk.  
 - **1637?1639** ? Economic shocks and poor harvests ripple in Britain and the Low Countries.  
 - **By 1640** ? English politics shift again (Short/Long Parliaments next decade), slowing the migration.
+

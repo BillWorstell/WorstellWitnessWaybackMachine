@@ -1,4 +1,4 @@
-# New Country ? Headcounts & timeline (1630?1640)
+﻿# New Country ? Headcounts & timeline (1630?1640)
 
 ## Headcounts (rule-of-thumb)
 
@@ -17,3 +17,4 @@
 - **1636?1637** ? **Pequot War** in the lower Connecticut.  
 - **1638** ? **New Haven** founded; Treaty of Hartford disperses Pequots.  
 - **1639** ? Town codes and church covenants multiply; regional courts thicken oversight.  
+

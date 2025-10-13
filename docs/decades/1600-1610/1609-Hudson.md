@@ -1,4 +1,4 @@
----
+﻿---
 title: 1609 ? Hudson on a river without a colony
 summary: A focused ancestor?s-eye essay on the Half Moon?s voyage and the peopled estuary it enters.
 ---
@@ -20,3 +20,4 @@ Past the Palisades and Tappan Zee; canoes bring beaver and otter; late-season ma
 - **Europeans in 1609:** **one ship**, ~20 men, for a few weeks; **zero** permanent households.
 
 > When our Dutch and Walloon families arrive in the 1620s, they step onto shores that already had names, paths, and politics.
+

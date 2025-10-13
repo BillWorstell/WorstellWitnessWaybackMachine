@@ -1,4 +1,4 @@
----
+﻿---
 title: NEW COUNTRY ? 1600?1610
 summary: Headcounts, scale, and timeline for Jamestown, the Hudson estuary, Quebec, and Spanish Florida.
 ---
@@ -27,3 +27,4 @@ summary: Headcounts, scale, and timeline for Jamestown, the Hudson estuary, Queb
 - **St. Augustine:** soldierly, steady, never populous.
 
 *Use this page as your fact sheet while writing the narrative essays.*
+

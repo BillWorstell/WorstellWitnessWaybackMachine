@@ -1,4 +1,4 @@
-# Ancestors' Eye ? 17th Century
+﻿# Ancestors' Eye ? 17th Century
 
 A town you can walk in an hour, courtrooms with rooms of dozens.
 
@@ -12,3 +12,4 @@ This project tells 1600?1699 through two theaters?**Virginia** and **New Netherl
 - [1630?1640](decades/1620-1630/1620-1630.md) ? From town covenants to contested frontiers
 
 > For a print/PDF manuscript, these same pages export cleanly. On the web, footnotes pop over the text and boxes keep things skimmable.
+

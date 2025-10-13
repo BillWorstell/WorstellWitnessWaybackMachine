@@ -1,4 +1,4 @@
-# Old Country ? 1620?1630 ? Drivers & timeline
+﻿# Old Country ? 1620?1630 ? Drivers & timeline
 
 **What pushes & pulls**
 - **Economy:** enclosure and rents in England; Dutch credit networks; French ports balancing confession and commerce.
@@ -10,4 +10,5 @@
 
 **For researchers**
 - Track kin in parish/guild books; look for signatures in notarial acts (Dutch) and notations in diocesan or consistorial records (English/French).
+
 

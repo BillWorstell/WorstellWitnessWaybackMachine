@@ -1,4 +1,4 @@
-# Pequot War 1636?1637 ? Contested frontiers
+﻿# Pequot War 1636?1637 ? Contested frontiers
 
 **Trigger & players.**  
 Tensions over trade routes and tributaries on the lower Connecticut escalated after the killing of trader John Oldham (1636). English towns (Massachusetts Bay, Plymouth, the new Connecticut settlements) allied with **Mohegan** and **Narragansett** opponents of the **Pequot**.
@@ -10,3 +10,4 @@ Winter raids gave way to the spring **Mystic** attack (May 1637), where English 
 English settlement jumped west along the Connecticut; alliances with Mohegan reshaped regional power; captives were enslaved or assigned to allied households. The war hardened boundaries between expanding English towns and Native polities, setting patterns visible for generations.
 
 *Pair with the New Country timeline to situate the campaigns inside town formation and river traffic.*
+

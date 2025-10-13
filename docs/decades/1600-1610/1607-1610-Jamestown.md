@@ -1,4 +1,4 @@
----
+﻿---
 title: Jamestown, 1607?1610 ? A few dozen English in a nation of thousands
 summary: A deep-dive ancestor?s-eye essay on Jamestown?s first years.
 ---
@@ -27,3 +27,4 @@ Brackish water; fevers; rotating watches; maize diplomacy with Powhatan towns la
 - The teenager known as **?Jane?**?forensic evidence of extremity during the Starving Time.
 
 > **Coda:** This essay pairs with **New Country** for the numbers and with **Life & Context** (Sarah Crew Williams?s line) for the personal thread of an *Ancient Planter* who survived these years.
+

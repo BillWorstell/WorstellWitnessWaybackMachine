@@ -1,4 +1,4 @@
-# Tintern ? Angidy Valley Wireworks (Monmouthshire)
+﻿# Tintern ? Angidy Valley Wireworks (Monmouthshire)
 
 In the wooded **Angidy Valley** near **Tintern** (Wye Valley), ironworking sites?charcoal
 furnaces, forges, and the famous wireworks?operated from the late 1500s through the 1600s.
@@ -21,3 +21,4 @@ migrants carried?or that investors sought to transplant?to the Atlantic colonies
 - Old Country (Europe) drivers & timeline ? [1600?1610-OldCountry.md](../decades/1600-1610/1600-1610-OldCountry.md)
 
 > _A quick reference for the industrial backdrop behind several decade narratives._
+

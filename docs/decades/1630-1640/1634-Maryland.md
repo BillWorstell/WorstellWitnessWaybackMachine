@@ -1,4 +1,4 @@
-# Maryland, 1634 ? A proprietary Catholic-led venture
+﻿# Maryland, 1634 ? A proprietary Catholic-led venture
 
 A new **proprietary colony** opens on the Chesapeake under the Calverts. Settlers establish **St. Mary?s City** while tobacco exports and headrights drive riverine settlement. Catholic leadership coexists with a mixed population and a pragmatic politics on the ground.
 
@@ -9,3 +9,4 @@ A new **proprietary colony** opens on the Chesapeake under the Calverts. Settler
 
 **Documents to look for**
 - Grants, headright claims, probate and county court records; correspondence; shipping and customs notes.
+

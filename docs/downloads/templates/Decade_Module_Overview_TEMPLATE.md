@@ -1,4 +1,4 @@
----
+﻿---
 title: "{DECADE} ? Decade Module Overview (TEMPLATE)"
 summary: "Use this file to scaffold a new decade module. Replace placeholders, duplicate into /docs/downloads/decades/{DECADE_SLUG}/ and /docs/decades/{DECADE_SLUG}/ as needed."
 ---

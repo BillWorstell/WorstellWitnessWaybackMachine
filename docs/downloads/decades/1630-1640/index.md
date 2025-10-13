@@ -1,4 +1,4 @@
-# 1630?1640 ? Downloads
+﻿# 1630?1640 ? Downloads
 
 This folder holds the downloadable handouts that match the web pages in
 `/docs/decades/1630-1640/`.
@@ -23,3 +23,4 @@ This folder holds the downloadable handouts that match the web pages in
 
 See: **Decades ? 1630?1640** pages in the navigation. Quick links to these
 files are also on that decade?s **Overview** page.
+

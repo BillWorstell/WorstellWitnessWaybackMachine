@@ -1,4 +1,4 @@
-# Persons (Research Dossiers)
+﻿# Persons (Research Dossiers)
 
 Primary-source briefs and narrative notes. Each dossier has a DOCX (editable) and a PDF (for quick viewing).
 
@@ -23,3 +23,4 @@ Primary-source briefs and narrative notes. Each dossier has a DOCX (editable) an
 * **Emily York ? Ancestry** ? [DOCX](./York-Emily-Ancestry.docx) ? [PDF](./York-Emily-Ancestry.pdf)
 * **Jonathan York ? Ancestry** ? [DOCX](./York-Jonathan-Ancestry.docx) ? [PDF](./York-Jonathan-Ancestry.pdf)
 * **Elizabeth Fulkerson ? Ancestry** ? [DOCX](./Fulkerson-Elizabeth-Ancestry.docx) ? [PDF](./Fulkerson-Elizabeth-Ancestry.pdf)
+

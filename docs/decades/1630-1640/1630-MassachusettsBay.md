@@ -1,4 +1,4 @@
-# Massachusetts Bay 1630 ? A great migration begins
+﻿# Massachusetts Bay 1630 ? A great migration begins
 
 **The fleet.**  
 In 1630 eleven ships carried some 700 passengers to Massachusetts Bay. Boston, Charlestown, Roxbury, Dorchester, Watertown, and Cambridge took shape within months?each organized around a gathered church and a town covenant.
@@ -13,3 +13,4 @@ Kin networks streamed from East Anglia and the West Country. New arrivals fanned
 Religious and political disputes produced new settlements: **Roger Williams** left for Providence (1636); the **Antinomian** controversy crested in 1637; allied New Englanders fought the **Pequot War** the same year.
 
 *Use this essay with town pages and family lines to track who arrived when, which congregation they joined, and where they went next.*
+

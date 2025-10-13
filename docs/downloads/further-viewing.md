@@ -1,4 +1,4 @@
-# Further viewing (by decade)
+﻿# Further viewing (by decade)
 
 > Curated episodes from **The Other States of America: History Portal** that pair directly with each decade?s Overview. Full playlist: [The Other States of America: History Portal](https://www.youtube.com/playlist?list=PLeGteAQBfysb5-NtDcw7-DkE-LgoINXy2).
 
@@ -77,4 +77,5 @@
 
 **Wampanoag**
 - [The Wampanoag III: Wampanoag Antebellum (1625?1671)](https://www.youtube.com/watch?v=NWTqNMCCF74)
+
 

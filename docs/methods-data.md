@@ -1,4 +1,4 @@
-# Methods & Data
+﻿# Methods & Data
 
 ## Population feel (not a census)
 We model ?crowd size? by triangulating:
@@ -11,3 +11,4 @@ See `/data/population_estimates.csv` for the working table feeding the decade ca
 ## Reproducibility
 - Drafts in Markdown serve both **print** and **web**.
 - MkDocs renders footnotes inline; Pandoc can export to PDF with Chicago-style notes.
+
