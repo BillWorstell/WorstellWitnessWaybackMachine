@@ -10,6 +10,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.sections
     - navigation.indexes
+    - toc.integrate
     - content.code.copy
   icon:
     repo: fontawesome/brands/github
@@ -39,52 +40,68 @@ nav:
   - Home: index.md
 
   - Decades:
-      - "1600–1610":
+      - 1600–1610:
           - Overview: decades/1600-1610/1600-1610.md
           - Life & Context: decades/1600-1610/1600-1610-life.md
-      - "1610–1620":
+          - Jamestown 1607–1610: decades/1600-1610/1607-1610-Jamestown.md
+          - Hudson 1609: decades/1600-1610/1609-Hudson.md
+          - New Country: decades/1600-1610/1600-1610-NewCountry.md
+          - Old Country: decades/1600-1610/1600-1610-OldCountry.md
+      - 1610–1620:
           - Overview: decades/1610-1620/1610-1620.md
           - Life & Context: decades/1610-1620/1610-1620-life.md
           - Virginia 1619: decades/1610-1620/1619-Virginia.md
           - Fort Nassau 1614–1618: decades/1610-1620/1614-1618-FortNassau.md
           - New Country: decades/1610-1620/1610-1620-NewCountry.md
           - Old Country: decades/1610-1620/1610-1620-OldCountry.md
-      - "1620–1630":
+      - 1620–1630:
           - Overview: decades/1620-1630/1620-1630.md
           - Life & Context: decades/1620-1630/1620-1630-life.md
-          - Plymouth 1620: decades/1620-1630/1620-Plymouth.md
+          - Plymouth 1620–1630: decades/1620-1630/1620-Plymouth.md
           - New Amsterdam 1626: decades/1620-1630/1626-NewAmsterdam.md
           - New Country: decades/1620-1630/1620-1630-NewCountry.md
           - Old Country: decades/1620-1630/1620-1630-OldCountry.md
-      - "1630–1640":
+      - 1630–1640:
           - Overview: decades/1630-1640/1630-1640.md
           - Life & Context: decades/1630-1640/1630-1640-life.md
           - Massachusetts Bay 1630: decades/1630-1640/1630-MassachusettsBay.md
           - Pequot War 1636–1637: decades/1630-1640/1636-1637-PequotWar.md
+          - Maryland 1634: decades/1630-1640/1634-Maryland.md
           - New Country: decades/1630-1640/1630-1640-NewCountry.md
           - Old Country: decades/1630-1640/1630-1640-OldCountry.md
 
   - Downloads:
-      - Overview: downloads/index.md
       - ReadMe: downloads/ReadMe.md
       - Further viewing: downloads/further-viewing.md
-      - "1600–1610 (folder)": downloads/decades/1600-1610/index.md
-      - "1610–1620 (folder)": downloads/decades/1610-1620/index.md
-      - "1620–1630 (folder)": downloads/decades/1620-1630/index.md
-      - "1630–1640 (folder)": downloads/decades/1630-1640/index.md
-
-  - Families:
-      - "Addie Arabelle Powell": families/AddieArabellePowell/index.md
-      - "Sarah Crew Williams": families/SarahCrewWilliams/index.md
-      - "William Albert Worstell": families/WilliamAlbertWorstell/index.md
+      - 1600–1610 (folder): downloads/decades/1600-1610/index.md
+      - 1610–1620 (folder): downloads/decades/1610-1620/index.md
+      - 1620–1630 (folder): downloads/decades/1620-1630/index.md
+      - 1630–1640 (folder): downloads/decades/1630-1640/index.md
 
   - Persons: persons/index.md
 
+  - Families:
+      - Addie Arabelle Powell:
+          - Landing page: families/AddieArabellePowell/index.md
+          - 1600–1610: families/AddieArabellePowell/1600-1610/1600-1610.md
+          - 1610–1620: families/AddieArabellePowell/1610-1620/1610-1620.md
+          - 1620–1630: families/AddieArabellePowell/1620-1630/1620-1630.md
+          - 1630–1640: families/AddieArabellePowell/1630-1640/1630-1640.md
+      - Sarah Crew Williams:
+          - Landing page: families/SarahCrewWilliams/index.md
+          - 1600–1610: families/SarahCrewWilliams/1600-1610/1600-1610.md
+          - 1610–1620: families/SarahCrewWilliams/1610-1620/1610-1620.md
+          - 1620–1630: families/SarahCrewWilliams/1620-1630/1620-1630.md
+          - 1630–1640: families/SarahCrewWilliams/1630-1640/1630-1640.md
+      - William Albert Worstell:
+          - Landing page: families/WilliamAlbertWorstell/index.md
+          - 1600–1610: families/WilliamAlbertWorstell/1600-1610/1600-1610.md
+          - 1610–1620: families/WilliamAlbertWorstell/1610-1620/1610-1620.md
+          - 1620–1630: families/WilliamAlbertWorstell/1620-1630/1620-1630.md
+          - 1630–1640: families/WilliamAlbertWorstell/1630-1640/1630-1640.md
+
   - Places:
-      - Norman’s Kill / Bushwick: places/normans-kill-bushwick.md
-      - Amsterdam: places/amsterdam.md
-      - Tintern Angidy Wireworks: places/tintern-angidy-wireworks.md
-      - Wray (Forest of Bowland): places/wray-forest-of-bowland.md
+      - Smits Vly: places/smits-vly.md
 
   - About:
       - Project overview: overview.md
